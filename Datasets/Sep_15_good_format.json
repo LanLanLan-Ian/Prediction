@@ -1,0 +1,532 @@
+[
+  {
+    "id":"687071faab86ea0060215bc7",
+    "prompt":"You are an agent that can predict future events. The event to be predicted: \"2025-09-18 (GMT+8), Which self-media accounts will be ranked from 6 to 8 on KolRank's daily Weibo self-media overall ranking?\"\n        IMPORTANT: Your final answer MUST end with this exact format:\n        \\boxed{YOUR_PREDICTION}\n        Do not use any other format. Do not refuse to make a prediction. Do not say \"I cannot predict the future.\" You must make a clear prediction based on the best data currently available, using the box format specified above.",
+    "end_time":"9/18/25",
+    "level":3,
+    "ground_truth":"\\boxed{第6名：丁禹兮，第7名：TOP登陆少年-苏新皓，第8名：时代少年团-严浩翔}",
+    "Std":null,
+    "additional values":"只有当日和当周数据",
+    "Description":null
+  },
+  {
+    "id":"6.85147E+23",
+    "prompt":"You are an agent that can predict future events. The event to be predicted: \"2025-09-18 (GMT+8), Which products will be ranked from 14 to 16 on the Weekly Chart of NewRank's  (新榜) AI Products Overall List? (Give the names only)\"\n        IMPORTANT: Your final answer MUST end with this exact format:\n        \\boxed{YOUR_PREDICTION}\n        Do not use any other format. Do not refuse to make a prediction. Do not say \"I cannot predict the future.\" You must make a clear prediction based on the best data currently available, using the box format specified above.",
+    "end_time":"9/18/25",
+    "level":4,
+    "ground_truth":"\\boxed{Kimi、Shutterstock、Gamma}",
+    "Std":null,
+    "additional values":null,
+    "Description":null
+  },
+  {
+    "id":"685e4893e582f0005f9cd2c8",
+    "prompt":"You are an agent that can predict future events. The event to be predicted: \"2025-09-23 (GMT+8), What will be the movies ranked from 1 to 3 on Maoyan's (猫眼电影) 'Want to Watch' list?\"\n        IMPORTANT: Your final answer MUST end with this exact format:\n        \\boxed{YOUR_PREDICTION}\n        Do not use any other format. Do not refuse to make a prediction. Do not say \"I cannot predict the future.\" You must make a clear prediction based on the best data currently available, using the box format specified above.",
+    "end_time":"9/23/25",
+    "level":3,
+    "ground_truth":"\\boxed{1. 《刺杀小说家2》(Killing a Novelist 2), 2. 《志愿军：浴血和平》(The Volunteers: Battle of Life and Death), 3. 《熊猫计划2》(Panda Plan 2)}",
+    "Std":null,
+    "additional values":null,
+    "Description":null
+  },
+  {
+    "id":"68a9b46e961bd3003c8f006b",
+    "prompt":"You are an agent that can predict future events. The event to be predicted: \"Will the 2025 Guinea referendum pass? (resolved around 2025-09-21 (GMT+8)). \"\n        IMPORTANT: Your final answer MUST end with this exact format:\n        \\boxed{Yes} or \\boxed{No}\n        Do not use any other format. Do not refuse to make a prediction. Do not say \"I cannot predict the future.\" You must make a clear prediction based on the best data currently available, using the box format specified above.",
+    "end_time":"9/21/25",
+    "level":1,
+    "ground_truth":"Yes",
+    "Std":null,
+    "additional values":null,
+    "Description":"按要求将正确答案直接填到ground truth里"
+  },
+  {
+    "id":"687104310a994c0060ef87a9",
+    "prompt":"You are an agent that can predict future events. The event to be predicted: \"Fani Willis to leave prosecution duty in Trump’s Georgia case? (resolved around 2025-09-21 (GMT+8)). \"\n        IMPORTANT: Your final answer MUST end with this exact format:\n        \\boxed{Yes} or \\boxed{No}\n        Do not use any other format. Do not refuse to make a prediction. Do not say \"I cannot predict the future.\" You must make a clear prediction based on the best data currently available, using the box format specified above.",
+    "end_time":"9/21/25",
+    "level":1,
+    "ground_truth":"Yes",
+    "Std":null,
+    "additional values":null,
+    "Description":null
+  },
+  {
+    "id":"68bd7b12d2cf39003b383f13",
+    "prompt":"You are an agent that can predict future events. The event to be predicted: \"Brighton vs. Tottenham (resolved around 2025-09-21 (GMT+8)). \nA.  Brighton win on 2025-09-20\nB.  Brighton vs. Tottenham end in a draw\nC.  Tottenham win on 2025-09-20\"\n        IMPORTANT: Your final answer MUST end with this exact format:\n        listing all plausible options you have identified, separated by commas, within the box. For example: \\boxed{A} for a single option or \\boxed{B, C, D} for multiple options.\n        Do not use any other format. Do not refuse to make a prediction. Do not say \"I cannot predict the future.\" You must make a clear prediction based on the best data currently available, using the box format specified above.",
+    "end_time":"9/21/25",
+    "level":1,
+    "ground_truth":"B",
+    "Std":null,
+    "additional values":null,
+    "Description":null
+  },
+  {
+    "id":"68bd7b12d2cf39003b383f12",
+    "prompt":"You are an agent that can predict future events. The event to be predicted: \"West Ham vs. Crystal Palace (resolved around 2025-09-21 (GMT+8)). \nA.  West Ham win on 2025-09-20\nB.  West Ham vs. Crystal Palace end in a draw\nC.  Crystal Palace win on 2025-09-20\"\n        IMPORTANT: Your final answer MUST end with this exact format:\n        listing all plausible options you have identified, separated by commas, within the box. For example: \\boxed{A} for a single option or \\boxed{B, C, D} for multiple options.\n        Do not use any other format. Do not refuse to make a prediction. Do not say \"I cannot predict the future.\" You must make a clear prediction based on the best data currently available, using the box format specified above.",
+    "end_time":"9/21/25",
+    "level":1,
+    "ground_truth":"C",
+    "Std":null,
+    "additional values":null,
+    "Description":null
+  },
+  {
+    "id":"68bd7b12d2cf39003b383f10",
+    "prompt":"You are an agent that can predict future events. The event to be predicted: \"Burnley FC vs. Nottingham Forest (resolved around 2025-09-21 (GMT+8)). \nA.  Burnley FC win on 2025-09-20\nB.  Burnley FC vs. Nottingham Forest end in a draw\nC.  Nottingham Forest win on 2025-09-20\"\n        IMPORTANT: Your final answer MUST end with this exact format:\n        listing all plausible options you have identified, separated by commas, within the box. For example: \\boxed{A} for a single option or \\boxed{B, C, D} for multiple options.\n        Do not use any other format. Do not refuse to make a prediction. Do not say \"I cannot predict the future.\" You must make a clear prediction based on the best data currently available, using the box format specified above.",
+    "end_time":"9/21/25",
+    "level":1,
+    "ground_truth":"B",
+    "Std":null,
+    "additional values":null,
+    "Description":null
+  },
+  {
+    "id":"68a9b46e961bd3003c8f006c",
+    "prompt":"You are an agent that can predict future events. The event to be predicted: \"Will Jaxson Dart start before Week 4?  (resolved around 2025-09-22 (GMT+8)). \"\n        IMPORTANT: Your final answer MUST end with this exact format:\n        \\boxed{Yes} or \\boxed{No}\n        Do not use any other format. Do not refuse to make a prediction. Do not say \"I cannot predict the future.\" You must make a clear prediction based on the best data currently available, using the box format specified above.",
+    "end_time":"9\/22\/25",
+    "level":1,
+    "ground_truth":"No",
+    "Std":null,
+    "additional values":null,
+    "Description":null
+  },
+  {
+    "id":"68c2c10b1da39f003dd50d23",
+    "prompt":"You are an agent that can predict future events. The event to be predicted: \"CA River Plate vs. SE Palmeiras (resolved around 2025-09-18 (GMT+8)). \nA.  CA River Plate win on 2025-09-17\nB.  SE Palmeiras win on 2025-09-17\nC.  CA River Plate vs. SE Palmeiras end in a draw\"\n        IMPORTANT: Your final answer MUST end with this exact format:\n        listing all plausible options you have identified, separated by commas, within the box. For example: \\boxed{A} for a single option or \\boxed{B, C, D} for multiple options.\n        Do not use any other format. Do not refuse to make a prediction. Do not say \"I cannot predict the future.\" You must make a clear prediction based on the best data currently available, using the box format specified above.",
+    "end_time":"9/18/25",
+    "level":1,
+    "ground_truth":"B",
+    "Std":null,
+    "additional values":null,
+    "Description":null
+  },
+  {
+    "id":"68c2c10b1da39f003dd50d20",
+    "prompt":"You are an agent that can predict future events. The event to be predicted: \"Paris Saint Germain vs. Atalanta (resolved around 2025-09-18 (GMT+8)). \nA.  Paris Saint Germain win on 2025-09-17\nB.  Paris Saint Germain vs. Atalanta end in a draw\nC.  Atalanta win on 2025-09-17\"\n        IMPORTANT: Your final answer MUST end with this exact format:\n        listing all plausible options you have identified, separated by commas, within the box. For example: \\boxed{A} for a single option or \\boxed{B, C, D} for multiple options.\n        Do not use any other format. Do not refuse to make a prediction. Do not say \"I cannot predict the future.\" You must make a clear prediction based on the best data currently available, using the box format specified above.",
+    "end_time":"9\/18\/25",
+    "level":1,
+    "ground_truth":"A",
+    "Std":null,
+    "additional values":null,
+    "Description":null
+  },
+  {
+    "id":"684fad993fe5e9005ec47c53",
+    "prompt":"You are an agent that can predict future events. The event to be predicted: \"At close of business on 19 September 2025, will the most recently announced Bank of Japan (BOJ) \"uncollateralized overnight call [interest] rate\" be lower, the same, or higher than it was at close of business on 31 July 2025? (resolved around 2025-09-19 (GMT+8)). \nA.  the outcome be Lower\nB.  the outcome be Same\nC.  the outcome be Higher\"\n        IMPORTANT: Your final answer MUST end with this exact format:\n        listing all plausible options you have identified, separated by commas, within the box. For example: \\boxed{A} for a single option or \\boxed{B, C, D} for multiple options.\n        Do not use any other format. Do not refuse to make a prediction. Do not say \"I cannot predict the future.\" You must make a clear prediction based on the best data currently available, using the box format specified above.",
+    "end_time":"9/19/25",
+    "level":1,
+    "ground_truth":"B",
+    "Std":null,
+    "additional values":null,
+    "Description":null
+  },
+  {
+    "id":"68c2c1331da39f003dd50d3d",
+    "prompt":"You are an agent that can predict future events. The event to be predicted: \"Botafogo vs. Mirassol (resolved around 2025-09-18 (GMT+8)). \nA.  the outcome be Botafogo\nB.  the outcome be Tie\nC.  the outcome be Mirassol\"\n        IMPORTANT: Your final answer MUST end with this exact format:\n        listing all plausible options you have identified, separated by commas, within the box. For example: \\boxed{A} for a single option or \\boxed{B, C, D} for multiple options.\n        Do not use any other format. Do not refuse to make a prediction. Do not say \"I cannot predict the future.\" You must make a clear prediction based on the best data currently available, using the box format specified above.",
+    "end_time":"9/18/25",
+    "level":1,
+    "ground_truth":"B",
+    "Std":null,
+    "additional values":null,
+    "Description":null
+  },
+  {
+    "id":"68c2c10b1da39f003dd50d1d",
+    "prompt":"You are an agent that can predict future events. The event to be predicted: \"Fenerbahçe SK vs. Alanyaspor (resolved around 2025-09-18 (GMT+8)). \nA.  Fenerbahçe SK win on 2025-09-17\nB.  Alanyaspor win on 2025-09-17\nC.  Fenerbahçe SK vs. Alanyaspor end in a draw\"\n        IMPORTANT: Your final answer MUST end with this exact format:\n        listing all plausible options you have identified, separated by commas, within the box. For example: \\boxed{A} for a single option or \\boxed{B, C, D} for multiple options.\n        Do not use any other format. Do not refuse to make a prediction. Do not say \"I cannot predict the future.\" You must make a clear prediction based on the best data currently available, using the box format specified above.",
+    "end_time":"9/18/25",
+    "level":1,
+    "ground_truth":"C",
+    "Std":null,
+    "additional values":null,
+    "Description":null
+  },
+  {
+    "id":"688b6215f6c7b8003cc2f4e6",
+    "prompt":"You are an agent that can predict future events. The event to be predicted: \"Next target for the US interest rate in September (resolved around 2025-09-18 (GMT+8)). \nA.  the outcome be Lower by 0.25%\nB.  the outcome be Maintain the same rate\nC.  the outcome be Lower by 0.5% or more\nD.  the outcome be Rise by 0.25% or more\"\n        IMPORTANT: Your final answer MUST end with this exact format:\n        listing all plausible options you have identified, separated by commas, within the box. For example: \\boxed{A} for a single option or \\boxed{B, C, D} for multiple options.\n        Do not use any other format. Do not refuse to make a prediction. Do not say \"I cannot predict the future.\" You must make a clear prediction based on the best data currently available, using the box format specified above.",
+    "end_time":"9/18/25",
+    "level":2,
+    "ground_truth":"A",
+    "Std":null,
+    "additional values":null,
+    "Description":"按要求直接将正确答案选到ground truth里就行"
+  },
+  {
+    "id":"684fad993fe5e9005ec47ccb",
+    "prompt":"You are an agent that can predict future events. The event to be predicted: \"What will be the closing yield for German 10-year Bunds (bonds) on 19 September 2025? (resolved around 2025-09-19 (GMT+8)). \nA.  the outcome be Less than 2.00%\nB.  the outcome be At least 2.00%, but less than 2.25%\nC.  the outcome be At least 2.25%, but less than 2.50%\nD.  the outcome be At least 2.50%, but less than 2.75%\nE.  the outcome be At least 2.75%, but less than 3.00%\nF.  the outcome be At least 3.00%, but less than 3.25%\nG.  the outcome be At least 3.25%, but less than 3.50%\nH.  the outcome be At least 3.50%, but less than 3.75%\nI.  the outcome be 3.75% or more\"\n        IMPORTANT: Your final answer MUST end with this exact format:\n        listing all plausible options you have identified, separated by commas, within the box. For example: \\boxed{A} for a single option or \\boxed{B, C, D} for multiple options.\n        Do not use any other format. Do not refuse to make a prediction. Do not say \"I cannot predict the future.\" You must make a clear prediction based on the best data currently available, using the box format specified above.",
+    "end_time":"9/19/25",
+    "level":2,
+    "ground_truth":"D",
+    "Std":null,
+    "additional values":null,
+    "Description":null
+  },
+  {
+    "id":"68a862f75f062a003c24472c",
+    "prompt":"You are an agent that can predict future events. The event to be predicted: \"2025 Premier Lacrosse League winner  (resolved around 2025-09-20 (GMT+8)). \nA.  Denver Outlaws win the 2025 PLL Championship\nB.  New York Atlas win the 2025 PLL Championship\nC.  Philadelphia Waterdogs win the 2025 PLL Championship\nD.  Boston Cannons win the 2025 PLL Championship\nE.  Utah Archers win the 2025 PLL Championship\nF.  California Redwoods win the 2025 PLL Championship\nG.  Carolina Chaos win the 2025 PLL Championship\nH.  Maryland Whipsnakes win the 2025 PLL Championship\nI.  any other team win the 2025 PLL Championship\"\n        IMPORTANT: Your final answer MUST end with this exact format:\n        listing all plausible options you have identified, separated by commas, within the box. For example: \\boxed{A} for a single option or \\boxed{B, C, D} for multiple options.\n        Do not use any other format. Do not refuse to make a prediction. Do not say \"I cannot predict the future.\" You must make a clear prediction based on the best data currently available, using the box format specified above.",
+    "end_time":"9/20/25",
+    "level":2,
+    "ground_truth":"B",
+    "Std":null,
+    "additional values":null,
+    "Description":null
+  },
+  {
+    "id":"68a9b46e961bd3003c8f006d",
+    "prompt":"You are an agent that can predict future events. The event to be predicted: \"\"KPop Demon Hunters\" views count on September 23? (resolved around 2025-09-23 (GMT+8)). \nA.  \"KPop Demon Hunters\" have less than 270m views on September 23\nB.  \"KPop Demon Hunters\" have between 310-330m views on September 23\nC.  \"KPop Demon Hunters\" have between 270-290m views on September 23\nD.  \"KPop Demon Hunters\" have between 290-310m views on September 23\nE.  \"KPop Demon Hunters\" have more than 330m views on September 23\"\n        IMPORTANT: Your final answer MUST end with this exact format:\n        listing all plausible options you have identified, separated by commas, within the box. For example: \\boxed{A} for a single option or \\boxed{B, C, D} for multiple options.\n        Do not use any other format. Do not refuse to make a prediction. Do not say \"I cannot predict the future.\" You must make a clear prediction based on the best data currently available, using the box format specified above.",
+    "end_time":"9/23/25",
+    "level":2,
+    "ground_truth":"B",
+    "Std":null,
+    "additional values":null,
+    "Description":null
+  },
+  {
+    "id":"68aefa74e0afb0003cee0119",
+    "prompt":"You are an agent that can predict future events. The event to be predicted: \"2025 EuroBasket Championship Winner  (resolved around 2025-09-20 (GMT+8)). \nA.  Serbia win the 2025 EuroBasket Championship\nB.  Germany win the 2025 EuroBasket Championship\nC.  France win the 2025 EuroBasket Championship\nD.  Greece win the 2025 EuroBasket Championship\nE.  Spain win the 2025 EuroBasket Championship\nF.  Slovenia win the 2025 EuroBasket Championship\nG.  Lithuania win the 2025 EuroBasket Championship\nH.  Turkey win the 2025 EuroBasket Championship\nI.  Latvia win the 2025 EuroBasket Championship\nJ.  Italy win the 2025 EuroBasket Championship\nK.  Finland win the 2025 EuroBasket Championship\nL.  Bosnia and Herzegovina win the 2025 EuroBasket Championship\nM.  Georgia win the 2025 EuroBasket Championship\nN.  Czechia win the 2025 EuroBasket Championship\nO.  Montenegro win the 2025 EuroBasket Championship\nP.  Belgium win the 2025 EuroBasket Championship\nQ.  Poland win the 2025 EuroBasket Championship\nR.  Great Britain win the 2025 EuroBasket Championship\nS.  Israel win the 2025 EuroBasket Championship\nT.  Estonia win the 2025 EuroBasket Championship\nU.  Sweden win the 2025 EuroBasket Championship\nV.  Portugal win the 2025 EuroBasket Championship\nW.  Cyprus win the 2025 EuroBasket Championship\nX.  Iceland win the 2025 EuroBasket Championship\nY.  Any Other Team win the 2025 EuroBasket Championship\"\n        IMPORTANT: Your final answer MUST end with this exact format:\n        listing all plausible options you have identified, separated by commas, within the box. For example: \\boxed{A} for a single option or \\boxed{B, C, D} for multiple options.\n        Do not use any other format. Do not refuse to make a prediction. Do not say \"I cannot predict the future.\" You must make a clear prediction based on the best data currently available, using the box format specified above.",
+    "end_time":"9/20/25",
+    "level":2,
+    "ground_truth":"B",
+    "Std":null,
+    "additional values":null,
+    "Description":null
+  },
+  {
+    "id":"68aefa74e0afb0003cee0118",
+    "prompt":"You are an agent that can predict future events. The event to be predicted: \"2025 EuroBasket MVP  (resolved around 2025-09-20 (GMT+8)). \nA.  Franz Wagner win the 2025 EuroBasket MVP\nB.  Bogdan Bogdanovic win the 2025 EuroBasket MVP\nC.  Dennis Schroder win the 2025 EuroBasket MVP\nD.  Kristaps Porzingis win the 2025 EuroBasket MVP\nE.  Tornike Shengelia win the 2025 EuroBasket MVP\nF.  Player A win the 2025 EuroBasket MVP\nG.  Player C win the 2025 EuroBasket MVP\nH.  Player E win the 2025 EuroBasket MVP\nI.  Player G win the 2025 EuroBasket MVP\nJ.  Player I win the 2025 EuroBasket MVP\nK.  Player K win the 2025 EuroBasket MVP\nL.  Player M win the 2025 EuroBasket MVP\nM.  Player O win the 2025 EuroBasket MVP\nN.  Nikola Jokic win the 2025 EuroBasket MVP\nO.  Luka Doncic win the 2025 EuroBasket MVP\nP.  Dzanan Musa win the 2025 EuroBasket MVP\nQ.  Giannis Antetokounmpo win the 2025 EuroBasket MVP\nR.  Lauri Markkanen win the 2025 EuroBasket MVP\nS.  Any Other Player win the 2025 EuroBasket MVP\nT.  Player B win the 2025 EuroBasket MVP\nU.  Player D win the 2025 EuroBasket MVP\nV.  Player F win the 2025 EuroBasket MVP\nW.  Player H win the 2025 EuroBasket MVP\nX.  Player J win the 2025 EuroBasket MVP\nY.  Player L win the 2025 EuroBasket MVP\nZ.  Player N win the 2025 EuroBasket MVP\n[.  Player P win the 2025 EuroBasket MVP\"\n        IMPORTANT: Your final answer MUST end with this exact format:\n        listing all plausible options you have identified, separated by commas, within the box. For example: \\boxed{A} for a single option or \\boxed{B, C, D} for multiple options.\n        Do not use any other format. Do not refuse to make a prediction. Do not say \"I cannot predict the future.\" You must make a clear prediction based on the best data currently available, using the box format specified above.",
+    "end_time":"9/20/25",
+    "level":2,
+    "ground_truth":"C",
+    "Std":null,
+    "additional values":null,
+    "Description":null
+  },
+  {
+    "id":"68c16f85468b31003c22ddaf",
+    "prompt":"You are an agent that can predict future events. The event to be predicted: \"What will Trump say during address to UN General Assembly on Sept 23? (resolved around 2025-09-23 (GMT+8)). \nA.  Trump say \"America\" or \"American\" 30+ times during address to UN General Assembly on September 23\nB.  Trump say \"Russia\" or \"Ukraine\" 7+ times during address to UN General Assembly on September 23\nC.  Trump say \"Peace\" 10+ times during address to UN General Assembly on September 23\nD.  Trump say \"God\" 5+ times during address to UN General Assembly on September 23\nE.  Trump say \"Nuclear\" 3+ times during address to UN General Assembly on September 23\nF.  Trump say \"China\" 3+ times during address to UN General Assembly on September 23\nG.  Trump say \"Biden\" 2+ times during address to UN General Assembly on September 23\nH.  Trump say \"Sovereignty\" during address to UN General Assembly on September 23\nI.  Trump say \"October 7th\" during address to UN General Assembly on September 23\nJ.  Trump say \"King\" during address to UN General Assembly on September 23\nK.  Trump say \"Maduro\" during address to UN General Assembly on September 23\nL.  Trump say \"Globalist\" or \"Globalism\" during address to UN General Assembly on September 23\nM.  Trump say \"Israel\" during address to UN General Assembly on September 23\nN.  Trump say \"Vladimir\" during address to UN General Assembly on September 23\nO.  Trump say \"Crypto\" or \"Bitcoin\" during address to UN General Assembly on September 23\"\n        IMPORTANT: Your final answer MUST end with this exact format:\n        listing all plausible options you have identified, separated by commas, within the box. For example: \\boxed{A} for a single option or \\boxed{B, C, D} for multiple options.\n        Do not use any other format. Do not refuse to make a prediction. Do not say \"I cannot predict the future.\" You must make a clear prediction based on the best data currently available, using the box format specified above.",
+    "end_time":"9/23/25",
+    "level":2,
+    "ground_truth":"B, E, F, G, H, I, J, K, L, M",
+    "Std":null,
+    "additional values":null,
+    "Description":null
+  },
+  {
+    "id":"68c2c10b1da39f003dd50d19",
+    "prompt":"You are an agent that can predict future events. The event to be predicted: \"Ethereum price on September 17? (resolved around 2025-09-18 (GMT+8)). \nA.  the price of Ethereum be less than $4,000 on September 17\nB.  the price of Ethereum be between $4,000 and $4,100 on September 17\nC.  the price of Ethereum be between $4,100 and $4,200 on September 17\nD.  the price of Ethereum be between $4,200 and $4,300 on September 17\nE.  the price of Ethereum be between $4,300 and $4,400 on September 17\nF.  the price of Ethereum be between $4,400 and $4,500 on September 17\nG.  the price of Ethereum be between $4,500 and $4,600 on September 17\nH.  the price of Ethereum be between $4,600 and $4,700 on September 17\nI.  the price of Ethereum be between $4,700 and $4,800 on September 17\nJ.  the price of Ethereum be between $4,800 and $4,900 on September 17\nK.  the price of Ethereum be greater than $4,900 on September 17\"\n        IMPORTANT: Your final answer MUST end with this exact format:\n        listing all plausible options you have identified, separated by commas, within the box. For example: \\boxed{A} for a single option or \\boxed{B, C, D} for multiple options.\n        Do not use any other format. Do not refuse to make a prediction. Do not say \"I cannot predict the future.\" You must make a clear prediction based on the best data currently available, using the box format specified above.",
+    "end_time":"9/18/25",
+    "level":2,
+    "ground_truth":"G",
+    "Std":null,
+    "additional values":null,
+    "Description":null
+  },
+  {
+    "id":"68c2c10b1da39f003dd50d13",
+    "prompt":"You are an agent that can predict future events. The event to be predicted: \"XRP price on September 17? (resolved around 2025-09-18 (GMT+8)). \nA.  the price of XRP be less than $2.50 on September 17\nB.  the price of XRP be between $2.50 and $2.60 on September 17\nC.  the price of XRP be between $2.60 and $2.70 on September 17\nD.  the price of XRP be between $2.70 and $2.80 on September 17\nE.  the price of XRP be between $2.80 and $2.90 on September 17\nF.  the price of XRP be between $2.90 and $3.00 on September 17\nG.  the price of XRP be between $3.00 and $3.10 on September 17\nH.  the price of XRP be between $3.10 and $3.20 on September 17\nI.  the price of XRP be between $3.20 and $3.30 on September 17\nJ.  the price of XRP be between $3.30 and $3.40 on September 17\nK.  the price of XRP be greater than $3.40 on September 17\"\n        IMPORTANT: Your final answer MUST end with this exact format:\n        listing all plausible options you have identified, separated by commas, within the box. For example: \\boxed{A} for a single option or \\boxed{B, C, D} for multiple options.\n        Do not use any other format. Do not refuse to make a prediction. Do not say \"I cannot predict the future.\" You must make a clear prediction based on the best data currently available, using the box format specified above.",
+    "end_time":"9/18/25",
+    "level":2,
+    "ground_truth":"G",
+    "Std":null,
+    "additional values":null,
+    "Description":null
+  },
+  {
+    "id":"68c2c10b1da39f003dd50d14",
+    "prompt":"You are an agent that can predict future events. The event to be predicted: \"Bitcoin price on September 17? (resolved around 2025-09-18 (GMT+8)). \nA.  the price of Bitcoin be less than $104,000 on September 17\nB.  the price of Bitcoin be between $110,000 and $112,000 on September 17\nC.  the price of Bitcoin be between $114,000 and $116,000 on September 17\nD.  the price of Bitcoin be between $116,000 and $118,000 on September 17\nE.  the price of Bitcoin be between $118,000 and $120,000 on September 17\nF.  the price of Bitcoin be between $120,000 and $122,000 on September 17\nG.  the price of Bitcoin be greater than $122,000 on September 17\nH.  the price of Bitcoin be between $104,000 and $106,000 on September 17\nI.  the price of Bitcoin be between $106,000 and $108,000 on September 17\nJ.  the price of Bitcoin be between $108,000 and $110,000 on September 17\nK.  the price of Bitcoin be between $112,000 and $114,000 on September 17\"\n        IMPORTANT: Your final answer MUST end with this exact format:\n        listing all plausible options you have identified, separated by commas, within the box. For example: \\boxed{A} for a single option or \\boxed{B, C, D} for multiple options.\n        Do not use any other format. Do not refuse to make a prediction. Do not say \"I cannot predict the future.\" You must make a clear prediction based on the best data currently available, using the box format specified above.",
+    "end_time":"9/18/25",
+    "level":2,
+    "ground_truth":"D",
+    "Std":null,
+    "additional values":null,
+    "Description":null
+  },
+  {
+    "id":"685171e0560ebb0061efb2c3",
+    "prompt":"You are an agent that can predict future events. The event to be predicted: \"2025-09-23 (GMT+8), What will be the total market capitalization of TCL Technology (000100) on the Shenzhen Stock Exchange in hundreds of millions of yuan?\"\n        IMPORTANT: Your final answer MUST end with this exact format:\n        \\boxed{YOUR_PREDICTION}\n        Do not use any other format. Do not refuse to make a prediction. Do not say \"I cannot predict the future.\" You must make a clear prediction based on the best data currently available, using the box format specified above.",
+    "end_time":"9/23/25",
+    "level":4,
+    "ground_truth":"89.86 billion yuan",
+    "Std":0.467,
+    "additional values":"The total market capitalization of TCL Technology (000100) on the Shenzhen Stock Exchange will be 89.86 billion yuan in Sep 23, 2025.\nIts daily total market capitalization(billion yuan) from September 16 to September 22, 2025 is as follows:\nSep 16: 90.692\nSep 17: 90.899\nSep 18: 91.939\nSep 19: 91.523\nSep 20: No trading (weekend)\nSep 21: No trading (weekend)\nSep 22: 90.899",
+    "Description":"1. 对于数值类预测问题：题目要求预测某一天某一事件的具体数值。在 ground truth 部分，我们需要填写题目中对应的正确答案。2. 此外，我们还需要提供过去七天针对同一问题的数值。例如：\n题目要求预测 TCL Technology 在 9月23日 的市值。如果当天真实值是 100，那么我们还需要补充 9月22日、9月21日、9月20日、9月19日、9月18日、9月17日、9月16日 的市值。（填写在 addition value中）3. 如果有GPT，可以进行辅助理解题目，以及帮忙进行搜索，它们一般会返回对应的链接，人工再进行检查是否正确。"
+  },
+  {
+    "id":"6851413f7b52bf0069cac9eb",
+    "prompt":"You are an agent that can predict future events. The event to be predicted: \"2025-09-20 (GMT+8), Which movie will be the #1 Release in Box Office Mojo's Domestic Box Office Weekly?\"\n        IMPORTANT: Your final answer MUST end with this exact format:\n        \\boxed{YOUR_PREDICTION}\n        Do not use any other format. Do not refuse to make a prediction. Do not say \"I cannot predict the future.\" You must make a clear prediction based on the best data currently available, using the box format specified above.",
+    "end_time":"9/20/25",
+    "level":4,
+    "ground_truth":"Sketch will be the #1",
+    "Std":null,
+    "additional values":null,
+    "Description":null
+  },
+  {
+    "id":"6867949457e54a0061f98f8c",
+    "prompt":"You are an agent that can predict future events. The event to be predicted: \"2025-09-19 (GMT+8), What will be the Grain Index of the China Coastal Bulk Freight Index published by the Shanghai Shipping Exchange?\"\n        IMPORTANT: Your final answer MUST end with this exact format:\n        \\boxed{YOUR_PREDICTION}\n        Do not use any other format. Do not refuse to make a prediction. Do not say \"I cannot predict the future.\" You must make a clear prediction based on the best data currently available, using the box format specified above.",
+    "end_time":"9/19/25",
+    "level":4,
+    "ground_truth":"904.27.",
+    "Std":null,
+    "additional values":"这个指数是周数据",
+    "Description":null
+  },
+  {
+    "id":"685141c3b3bf920060db7796",
+    "prompt":"You are an agent that can predict future events. The event to be predicted: \"2025-09-23 (GMT+8), Who will be the players ranked from 4 to 6 in the PIF ATP Singles Ranking? (Give the names only)\"\n        IMPORTANT: Your final answer MUST end with this exact format:\n        \\boxed{YOUR_PREDICTION}\n        Do not use any other format. Do not refuse to make a prediction. Do not say \"I cannot predict the future.\" You must make a clear prediction based on the best data currently available, using the box format specified above.",
+    "end_time":"9/23/25",
+    "level":3,
+    "ground_truth":"Novak Djokovic, Taylor Fritz, Ben Shelton.",
+    "Std":null,
+    "additional values":"排名目前只更新到9.22这周",
+    "Description":"这种rank的题目，搜索当天的正确答案，按顺序填写就行。"
+  },
+  {
+    "id":"68514628aca664006bceb217",
+    "prompt":"You are an agent that can predict future events. The event to be predicted: \"2025-09-19 (GMT+8), According to the China Influenza Weekly Report from the Chinese Center for Disease Control and Prevention, how many outbreaks of influenza-like illness will be reported nationwide?\"\n        IMPORTANT: Your final answer MUST end with this exact format:\n        \\boxed{YOUR_PREDICTION}\n        Do not use any other format. Do not refuse to make a prediction. Do not say \"I cannot predict the future.\" You must make a clear prediction based on the best data currently available, using the box format specified above.",
+    "end_time":"9/19/25",
+    "level":4,
+    "ground_truth":"13",
+    "Std":null,
+    "additional values":"2025年第28周第875期（截止2025年9月21日）",
+    "Description":null
+  },
+  {
+    "id":"6.85147E+23",
+    "prompt":"You are an agent that can predict future events. The event to be predicted: \"2025-09-22 (GMT+8), What will be the books from rank 6 to 8 on the Amazon Charts of Most Read Fiction list? (Give the book titles only)\"\n        IMPORTANT: Your final answer MUST end with this exact format:\n        \\boxed{YOUR_PREDICTION}\n        Do not use any other format. Do not refuse to make a prediction. Do not say \"I cannot predict the future.\" You must make a clear prediction based on the best data currently available, using the box format specified above.",
+    "end_time":"9/22/25",
+    "level":4,
+    "ground_truth":"Onyx Storm,Iron Flame,Harry Potter and the Sorcerer's Stone.",
+    "Std":null,
+    "additional values":"最新的日期是到9.21这周的榜单",
+    "Description":null
+  },
+  {
+    "id":"6851736beb11c800614780df",
+    "prompt":"You are an agent that can predict future events. The event to be predicted: \"2025-09-23 (GMT+8), What will the high of Apple stock (AAPL) be for the day?\"\n        IMPORTANT: Your final answer MUST end with this exact format:\n        \\boxed{YOUR_PREDICTION}\n        Do not use any other format. Do not refuse to make a prediction. Do not say \"I cannot predict the future.\" You must make a clear prediction based on the best data currently available, using the box format specified above.",
+    "end_time":"9/23/25",
+    "level":4,
+    "ground_truth":"The high of Apple stock (AAPL) be for September 23, 2025 will be 257.34 dollar.\n",
+    "Std":6.162,
+    "additional values":"\"The high of Apple stock (AAPL) be for September 23, 2025 will be 257.34 dollar.\nIts daily high(dollar) from September 16 to September 22, 2025 is as follows:\nSep 16: 241.22\nSep 17: 240.10\nSep 18: 241.20\nSep 19: 246.30\nSep 20: No trading (weekend)\nSep 21: No trading (weekend)\nSep 22: 256.64\"",
+    "Description":null
+  },
+  {
+    "id":"6851737f59f71f006037a1e4",
+    "prompt":"You are an agent that can predict future events. The event to be predicted: \"2025-09-23 (GMT+8), What will be the day's high of the S&P 500 Index (INDEXSP:.INX)?\"\n        IMPORTANT: Your final answer MUST end with this exact format:\n        \\boxed{YOUR_PREDICTION}\n        Do not use any other format. Do not refuse to make a prediction. Do not say \"I cannot predict the future.\" You must make a clear prediction based on the best data currently available, using the box format specified above.",
+    "end_time":"9/23/25",
+    "level":4,
+    "ground_truth":"6699.52",
+    "Std":29.04,
+    "additional values":"The high of the S&P 500 Index for September 23, 2025 will be at 6699.52.\nIts daily high from September 16 to September 22, 2025 is as follows:\nSep 16: 6626.99\nSep 17: 6624.39\nSep 18: 6656.80\nSep 19: 6671.82\nSep 20: No trading (weekend)\nSep 21: No trading (weekend)\nSep 22: 6698.88",
+    "Description":null
+  },
+  {
+    "id":"685173c159f71f006037a1e9",
+    "prompt":"You are an agent that can predict future events. The event to be predicted: \"2025-09-19 (GMT+8), What will be the value in Chinese Yuan of 100 units of Euro at the central parity rate?\"\n        IMPORTANT: Your final answer MUST end with this exact format:\n        \\boxed{YOUR_PREDICTION}\n        Do not use any other format. Do not refuse to make a prediction. Do not say \"I cannot predict the future.\" You must make a clear prediction based on the best data currently available, using the box format specified above.",
+    "end_time":"9/19/25",
+    "level":3,
+    "ground_truth":"838.34",
+    "Std":null,
+    "additional values":null,
+    "Description":null
+  },
+  {
+    "id":"685173d659f71f006037a1eb",
+    "prompt":"You are an agent that can predict future events. The event to be predicted: \"2025-09-19 (GMT+8), What will be the day's high for the Dow Jones Industrial Average (INDEXDJX:.DJI)?\"\n        IMPORTANT: Your final answer MUST end with this exact format:\n        \\boxed{YOUR_PREDICTION}\n        Do not use any other format. Do not refuse to make a prediction. Do not say \"I cannot predict the future.\" You must make a clear prediction based on the best data currently available, using the box format specified above.",
+    "end_time":"9/19/25",
+    "level":4,
+    "ground_truth":"46,396.47",
+    "Std":144.51,
+    "additional values":"The high of the Dow Jones Industrial Average for September 19, 2025 will be at 46,396.47.\nIts daily high from September 12 to September 18, 2025 is as follows:\nSep 12: 46,077.14 \nSep 13: No trading (weekend)\nSep 14: No trading (weekend)\nSep 15: 45,978.43 \nSep 16: 45,967.11\nSep 17: 46,261.95\nSep 18: 46,317.52 ",
+    "Description":null
+  },
+  {
+    "id":"6851740359f71f006037a1ed",
+    "prompt":"You are an agent that can predict future events. The event to be predicted: \"2025-09-19 (GMT+8), What will be the day's volume for India Market Fund LOF (SZ:164824)?\"\n        IMPORTANT: Your final answer MUST end with this exact format:\n        \\boxed{YOUR_PREDICTION}\n        Do not use any other format. Do not refuse to make a prediction. Do not say \"I cannot predict the future.\" You must make a clear prediction based on the best data currently available, using the box format specified above.",
+    "end_time":"9/19/25",
+    "level":4,
+    "ground_truth":"42.6578 millon shares",
+    "Std":6.52,
+    "additional values":"The day's volume for India Market Fund LOF for September 19, 2025 will be 42.6578 millon shares.\nIts day's volume(million shares) from September 12 to September 18, 2025 is as follows:\nSep 12: 31.3203\nSep 13: No trading (weekend)\nSep 14: No trading (weekend)\nSep 15: 35.4158 \nSep 16: 39.992\nSep 17: 46.208\nSep 18: 48.8479",
+    "Description":null
+  },
+  {
+    "id":"6851741059f71f006037a1ee",
+    "prompt":"You are an agent that can predict future events. The event to be predicted: \"2025-09-19 (GMT+8), What will be the Nikkei Stock Average (Nikkei 225)'s opening price for the day?\"\n        IMPORTANT: Your final answer MUST end with this exact format:\n        \\boxed{YOUR_PREDICTION}\n        Do not use any other format. Do not refuse to make a prediction. Do not say \"I cannot predict the future.\" You must make a clear prediction based on the best data currently available, using the box format specified above.",
+    "end_time":"9/19/25",
+    "level":4,
+    "ground_truth":"45634.29",
+    "Std":79.37,
+    "additional values":"The opening price for the Nikkei Stock Average (Nikkei 225) will be at 45634.29 on Sep 19, 2025. Except for day-offs on Sep 13, 14 and 15, the opening prices on Sep 12, 16, 17 and 18 are at 44803.3, 44948.85, 44751.84 and 44910.5, respectively.",
+    "Description":null
+  },
+  {
+    "id":"6851744459f71f006037a1f2",
+    "prompt":"You are an agent that can predict future events. The event to be predicted: \"2025-09-20 (GMT+8), What will CoinMarketCap's Fear and Greed Index be?\"\n        IMPORTANT: Your final answer MUST end with this exact format:\n        \\boxed{YOUR_PREDICTION}\n        Do not use any other format. Do not refuse to make a prediction. Do not say \"I cannot predict the future.\" You must make a clear prediction based on the best data currently available, using the box format specified above.",
+    "end_time":"9/20/25",
+    "level":4,
+    "ground_truth":"49",
+    "Std":1.178,
+    "additional values":"CoinMarketCap's Fear and Greed Index will be 49 on Sep 20, 2025. The Index for the period from Sep 13 to Sep 19 is 53, 54, 52, 51, 54, 51 and 52, respectively.",
+    "Description":null
+  },
+  {
+    "id":"6854dcb27df94a0060eb86cf",
+    "prompt":"You are an agent that can predict future events. The event to be predicted: \"2025-09-22 (GMT+8), What will be the projects ranked from 2 to 4 on OpenGithubs' github-daily-rank? (Give the project names only)\"\n        IMPORTANT: Your final answer MUST end with this exact format:\n        \\boxed{YOUR_PREDICTION}\n        Do not use any other format. Do not refuse to make a prediction. Do not say \"I cannot predict the future.\" You must make a clear prediction based on the best data currently available, using the box format specified above.",
+    "end_time":"9/22/25",
+    "level":4,
+    "ground_truth":"Alibaba-NLP WebAgent, microsoft ai-agents-for-beginners and datawhalechina happy-llm.",
+    "Std":null,
+    "additional values":null,
+    "Description":null
+  },
+  {
+    "id":"6854dce17df94a0060eb86d3",
+    "prompt":"You are an agent that can predict future events. The event to be predicted: \"2025-09-21 (GMT+8), What will be the series ranked from 11 to 13 on Hulu's Top 15 Series Today?\"\n        IMPORTANT: Your final answer MUST end with this exact format:\n        \\boxed{YOUR_PREDICTION}\n        Do not use any other format. Do not refuse to make a prediction. Do not say \"I cannot predict the future.\" You must make a clear prediction based on the best data currently available, using the box format specified above.",
+    "end_time":"9/21/25",
+    "level":3,
+    "ground_truth":"第11名：MasterChef，第12名：Celebrity Family Feud，第13名：Futurama",
+    "Std":null,
+    "additional values":"答案为最新排名，但没有更新日期，所以不确定是否为9.21日排名",
+    "Description":null
+  },
+  {
+    "id":"6854dfb0a5e49700606af49d",
+    "prompt":"You are an agent that can predict future events. The event to be predicted: \"2025-09-23 (GMT+8), Who will be the players ranked from 13 to 15 in the Official World Golf Ranking? (Give the names only)\"\n        IMPORTANT: Your final answer MUST end with this exact format:\n        \\boxed{YOUR_PREDICTION}\n        Do not use any other format. Do not refuse to make a prediction. Do not say \"I cannot predict the future.\" You must make a clear prediction based on the best data currently available, using the box format specified above.",
+    "end_time":"9/23/25",
+    "level":3,
+    "ground_truth":"Viktor Hovland, Keegan Bradley, Sepp Straka.",
+    "Std":null,
+    "additional values":null,
+    "Description":null
+  },
+  {
+    "id":"6854e0397ff26400687d2031",
+    "prompt":"You are an agent that can predict future events. The event to be predicted: \"2025-09-22 (GMT+8), What will be the projects ranked from 9 to 11 on OpenGithubs' github-weekly-rank? (Give the project names only)\"\n        IMPORTANT: Your final answer MUST end with this exact format:\n        \\boxed{YOUR_PREDICTION}\n        Do not use any other format. Do not refuse to make a prediction. Do not say \"I cannot predict the future.\" You must make a clear prediction based on the best data currently available, using the box format specified above.",
+    "end_time":"9/22/25",
+    "level":4,
+    "ground_truth":"moeru-ai airi, datawhalechina happy-llm and anthropics claude-code.",
+    "Std":null,
+    "additional values":null,
+    "Description":null
+  },
+  {
+    "id":"6854e07a8a3a0d00612e86dc",
+    "prompt":"You are an agent that can predict future events. The event to be predicted: \"2025-09-22 (GMT+8), What will be the books ranked from 10 to 12 on Goodreads' Most Read Books This Week list? (Give the book titles only)\"\n        IMPORTANT: Your final answer MUST end with this exact format:\n        \\boxed{YOUR_PREDICTION}\n        Do not use any other format. Do not refuse to make a prediction. Do not say \"I cannot predict the future.\" You must make a clear prediction based on the best data currently available, using the box format specified above.",
+    "end_time":"9/22/25",
+    "level":3,
+    "ground_truth":"One Golden Summer, The Surrogate Mother and Sunrise on the Reaping (The Hunger Games, #0.5).",
+    "Std":null,
+    "additional values":null,
+    "Description":null
+  },
+  {
+    "id":"685e4932e582f0005f9cd2cc",
+    "prompt":"You are an agent that can predict future events. The event to be predicted: \"2025-09-18 (GMT+8), In the operating system rankings released by 51.LA, what will the market share of Win10 be?\"\n        IMPORTANT: Your final answer MUST end with this exact format:\n        \\boxed{YOUR_PREDICTION}\n        Do not use any other format. Do not refuse to make a prediction. Do not say \"I cannot predict the future.\" You must make a clear prediction based on the best data currently available, using the box format specified above.",
+    "end_time":"9/18/25",
+    "level":4,
+    "ground_truth":"30.98%",
+    "Std":2.145,
+    "additional values":"The market share of Win10 will be 30.98% on Sep 18, 2025. Its market share for the period from Sep 11 to Sep 17 is as follows:\nSep 11: 28.74%\nSep 12: 29.95%\nSep 13: 28.43%\nSep 14: 28.62%\nSep 15: 32.71%\nSep 16: 34.49%\nSep 17: 30.95%",
+    "Description":null
+  },
+  {
+    "id":"68774dbf27798c003c8a0dce",
+    "prompt":"You are an agent that can predict future events. The event to be predicted: \"2025-09-21 (GMT+8), What will be the top-ranked short drama on the short drama hot list published by BiaNews (鞭牛士)? (Give the drama name only)\"\n        IMPORTANT: Your final answer MUST end with this exact format:\n        \\boxed{YOUR_PREDICTION}\n        Do not use any other format. Do not refuse to make a prediction. Do not say \"I cannot predict the future.\" You must make a clear prediction based on the best data currently available, using the box format specified above.",
+    "end_time":"9/21/25",
+    "level":3,
+    "ground_truth":"我的祖母是穿越女.",
+    "Std":null,
+    "additional values":null,
+    "Description":null
+  },
+  {
+    "id":"68774dcaefdf6b003bf288c9",
+    "prompt":"You are an agent that can predict future events. The event to be predicted: \"2025-09-19 (GMT+8), In the short drama hot list published by BiaNews(鞭牛士), what will the overall market heat index (in ten thousands) be?\"\n        IMPORTANT: Your final answer MUST end with this exact format:\n        \\boxed{YOUR_PREDICTION}\n        Do not use any other format. Do not refuse to make a prediction. Do not say \"I cannot predict the future.\" You must make a clear prediction based on the best data currently available, using the box format specified above.",
+    "end_time":"9/19/25",
+    "level":3,
+    "ground_truth":"4659",
+    "Std":32.44,
+    "additional values":" The overall market heat index (in ten thousands) for September 19, 2025 will be 4659.\n9\/18\/25: 4694\n9\/17\/25: 4669\n9\/16\/25: 4701\n9\/15\/25: 4711\n9\/14\/25: 4738\n9\/13\/25: 4770",
+    "Description":null
+  },
+  {
+    "id":"68774e5b17ef980047f8ce68",
+    "prompt":"You are an agent that can predict future events. The event to be predicted: \"2025-09-19 (GMT+8), Who will be the authors ranked from 6 to 8 on the Original Author Popularity Ranking published by Tencent Cloud Developer Community? (Give the author names only)\"\n        IMPORTANT: Your final answer MUST end with this exact format:\n        \\boxed{YOUR_PREDICTION}\n        Do not use any other format. Do not refuse to make a prediction. Do not say \"I cannot predict the future.\" You must make a clear prediction based on the best data currently available, using the box format specified above.",
+    "end_time":"9/19/25",
+    "level":4,
+    "ground_truth":"Echo_Wish, Lion 莱恩呀 and 编程小妖女.",
+    "Std":null,
+    "additional values":null,
+    "Description":null
+  },
+  {
+    "id":"687df3a41d972f003b8ba68c",
+    "prompt":"You are an agent that can predict future events. The event to be predicted: \"2025-09-18 (GMT+8), What will the turnover of CanSino (SH:688185) be for the day?\"\n        IMPORTANT: Your final answer MUST end with this exact format:\n        \\boxed{YOUR_PREDICTION}\n        Do not use any other format. Do not refuse to make a prediction. Do not say \"I cannot predict the future.\" You must make a clear prediction based on the best data currently available, using the box format specified above.",
+    "end_time":"9/18/25",
+    "level":4,
+    "ground_truth":"240.15 million yuan",
+    "Std":34.91,
+    "additional values":"The turnover of CanSino (SH:688185) will reach 240.15 million yuan on Sep 18, 2025.\nIts turnover (million yuan) from September 11 to September 17, 2025 is as follows:\nSep 11: 196.53\nSep 12: 241.17\nSep 13: No trading (weekend)\nSep 14: No trading (weekend)\nSep 15: 193.72\nSep 16: 152.58\nSep 17: 144.00",
+    "Description":null
+  },
+  {
+    "id":"687df3b6ff05a4003c601bc2",
+    "prompt":"You are an agent that can predict future events. The event to be predicted: \"2025-09-23 (GMT+8), What will the NASDAQ Composite Index (.IXIC)'s high be for the day?\"\n        IMPORTANT: Your final answer MUST end with this exact format:\n        \\boxed{YOUR_PREDICTION}\n        Do not use any other format. Do not refuse to make a prediction. Do not say \"I cannot predict the future.\" You must make a clear prediction based on the best data currently available, using the box format specified above.",
+    "end_time":"9/23/25",
+    "level":4,
+    "ground_truth":"89.92 dollar",
+    "Std":1.909,
+    "additional values":"9\/23\/25: 89.92 dollar\n9\/22\/25: 90.43 dollar\n9\/21\/25: Non-trading day\n9\/20\/25: Non-trading day\n9\/19\/25: 89.93 dollar\n9\/18\/25: 93.89 dollar\n9\/17\/25: 94.05 dollar",
+    "Description":null
+  },
+  {
+    "id":"685171b65b1af900600a3306",
+    "prompt":"You are an agent that can predict future events. The event to be predicted: \"2025-09-18 (GMT+8), What will be the total market capitalization of Bank of China (601988) on the Shanghai Stock Exchange in ten thousand yuan?\"\n        IMPORTANT: Your final answer MUST end with this exact format:\n        \\boxed{YOUR_PREDICTION}\n        Do not use any other format. Do not refuse to make a prediction. Do not say \"I cannot predict the future.\" You must make a clear prediction based on the best data currently available, using the box format specified above.",
+    "end_time":"9/18/25",
+    "level":4,
+    "ground_truth":"159,936,400 thousand yuan",
+    "Std":1644049.0,
+    "additional values":"9\/18\/25: 159,936,400 thousand yuan\n9\/17\/25: 162,805,000 thousand yuan\n9\/16\/25: 162,899,000 thousand yuan\n9\/15\/25: 164,027,100 thousand yuan\n9\/14\/25: Non-trading day\n9\/13\/25: Non-trading day\n9\/12\/25: 164,758,300 thousand yuan",
+    "Description":null
+  },
+  {
+    "id":"6851738859f71f006037a1e5",
+    "prompt":"You are an agent that can predict future events. The event to be predicted: \"2025-09-22 (GMT+8), What will be the volume for the CSI 300 Index today?\"\n        IMPORTANT: Your final answer MUST end with this exact format:\n        \\boxed{YOUR_PREDICTION}\n        Do not use any other format. Do not refuse to make a prediction. Do not say \"I cannot predict the future.\" You must make a clear prediction based on the best data currently available, using the box format specified above.",
+    "end_time":"9/22/25",
+    "level":4,
+    "ground_truth":"4522.61",
+    "Std":18.89,
+    "additional values":"9\/22\/25: 4522.61\n9\/21\/25: Non-trading day\n9\/20\/25: Non-trading day\n9\/19\/25: 4501.92\n9\/18\/25: 4498.11\n9\/17\/25: 4551.02\n9\/16\/25: 4523.34",
+    "Description":null
+  },
+  {
+    "id":"6851739159f71f006037a1e6",
+    "prompt":"You are an agent that can predict future events. The event to be predicted: \"2025-09-18 (GMT+8), What will be BYD's (SZ:002594) turnover for the day?\"\n        IMPORTANT: Your final answer MUST end with this exact format:\n        \\boxed{YOUR_PREDICTION}\n        Do not use any other format. Do not refuse to make a prediction. Do not say \"I cannot predict the future.\" You must make a clear prediction based on the best data currently available, using the box format specified above.",
+    "end_time":"9/18/25",
+    "level":4,
+    "ground_truth":"10362 millions yuan",
+    "Std":2614.4,
+    "additional values":"9\/18\/25: 10362 millions yuan\n9\/17\/25: 10828 millions yuan\n9\/16\/25: 5753 millions yuan\n9\/15\/25: 10620 millions yuan\n9\/14\/25: Non-trading day\n9\/13\/25: Non-trading day\n9\/12\/25: 4860 millions yuan",
+    "Description":null
+  },
+  {
+    "id":"685174aa59f71f006037a1f7",
+    "prompt":"You are an agent that can predict future events. The event to be predicted: \"2025-09-18 (GMT+8), Which channel accounts will be ranked from 12 to 14 on the Daily Hilarious Chart of NewRank's  (新榜) WeChat Channel Index? (Give the channel accounts only)\"\n        IMPORTANT: Your final answer MUST end with this exact format:\n        \\boxed{YOUR_PREDICTION}\n        Do not use any other format. Do not refuse to make a prediction. Do not say \"I cannot predict the future.\" You must make a clear prediction based on the best data currently available, using the box format specified above.",
+    "end_time":"9/18/25",
+    "level":4,
+    "ground_truth":"12th：校园二狗子 13th：九转大腸 14th：一颗霉屎a",
+    "Std":null,
+    "additional values":"仅找到周榜",
+    "Description":null
+  },
+  {
+    "id":"68774ddd3083b1003c629ca8",
+    "prompt":"You are an agent that can predict future events. The event to be predicted: \"2025-09-22 (GMT+8), What will the value (in hundreds of millions of yuan) of Daily Total Turnover of Shanghai-Hong Kong Stock Connect's Southbound Trading be?\"\n        IMPORTANT: Your final answer MUST end with this exact format:\n        \\boxed{YOUR_PREDICTION}\n        Do not use any other format. Do not refuse to make a prediction. Do not say \"I cannot predict the future.\" You must make a clear prediction based on the best data currently available, using the box format specified above.",
+    "end_time":"9/22/25",
+    "level":4,
+    "ground_truth":"12740 millions yuan",
+    "Std":5500.46,
+    "additional values":"9\/22\/25: 12740 millions yuan\n9\/21\/25: Non-trading day\n9\/20\/25: Non-trading day\n9\/19\/25: 9838 millions yuan \n9\/18\/25: 6288 millions yuan\n9\/17\/25: 9440 millions yuan\n9\/16\/25:-3189 millions yuan",
+    "Description":null
+  }
+]
