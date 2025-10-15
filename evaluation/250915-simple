@@ -1,0 +1,335 @@
+正在评估文件: 250915-simple.json
+
+[Level 3] ID: 687071faab86ea0060215bc7
+  Ground Truth: \boxed{第6名：丁禹兮，第7名：TOP登陆少年-苏新皓，第8名：时代少年团-严浩翔}
+  Prediction: 6th：@回忆专用小马甲 7th：@李子柒 8th：@办公室小野
+    Truth: ['第6名：丁禹兮', '第7名：TOP登陆少年-苏新皓', '第8名：时代少年团-严浩翔']
+    Pred: ['@回忆专用小马甲 @李子柒 @办公室小野']
+    Score: 0.0000
+
+[Level 4] ID: 6.85147E+23
+  Ground Truth: \boxed{Kimi、Shutterstock、Gamma}
+  Prediction: Midjourney, Notion AI, Grammarly
+    Truth: ['Kimi', 'Shutterstock', 'Gamma']
+    Pred: ['Midjourney', 'Notion AI', 'Grammarly']
+    Score: 0.0000
+
+[Level 3] ID: 685e4893e582f0005f9cd2c8
+  Ground Truth: \boxed{1. 《刺杀小说家2》(Killing a Novelist 2), 2. 《志愿军：浴血和平》(The Volunteers: Battle of Life and Death), 3. 《熊猫计划2》(Panda Plan 2)}
+  Prediction: 1. [Chinese National Day Film] 2. [Hollywood Blockbuster] 3. [Domestic Hit Sequel]
+    Truth: ['《刺杀小说家2》(Killing a Novelist 2)', '《志愿军：浴血和平》(The Volunteers: Battle of Life and Death)', '《熊猫计划2》(Panda Plan 2)']
+    Pred: ['[Chinese National Day Film] [Hollywood Blockbuster] [Domestic Hit Sequel]']
+    Score: 0.0000
+
+[Level 1] ID: 68a9b46e961bd3003c8f006b
+  Ground Truth: Yes
+  Prediction: Yes
+  Truth: Yes, Pred: YES, Score: 1.0000
+
+[Level 1] ID: 687104310a994c0060ef87a9
+  Ground Truth: Yes
+  Prediction: No
+  Truth: Yes, Pred: NO, Score: 0.0000
+
+[Level 1] ID: 68bd7b12d2cf39003b383f13
+  Ground Truth: B
+  Prediction: B, C
+  Truth: B, Pred: C, Score: 0.0000
+
+[Level 1] ID: 68bd7b12d2cf39003b383f12
+  Ground Truth: C
+  Prediction: A, B, C
+  Truth: C, Pred: A, Score: 0.0000
+
+[Level 1] ID: 68bd7b12d2cf39003b383f10
+  Ground Truth: B
+  Prediction: B, C
+  Truth: B, Pred: C, Score: 0.0000
+
+[Level 1] ID: 68a9b46e961bd3003c8f006c
+  Ground Truth: No
+  Prediction: Yes
+  Truth: No, Pred: YES, Score: 0.0000
+
+[Level 1] ID: 68c2c10b1da39f003dd50d23
+  Ground Truth: B
+  Prediction: A, B, C
+  Truth: B, Pred: A, Score: 0.0000
+
+[Level 1] ID: 68c2c10b1da39f003dd50d20
+  Ground Truth: A
+  Prediction: A, B, C
+  Truth: A, Pred: A, Score: 1.0000
+
+[Level 1] ID: 684fad993fe5e9005ec47c53
+  Ground Truth: B
+  Prediction: B, C
+  Truth: B, Pred: C, Score: 0.0000
+
+[Level 1] ID: 68c2c1331da39f003dd50d3d
+  Ground Truth: B
+  Prediction: Botafogo
+  Truth: B, Pred: BOTAFOGO, Score: 0.0000
+
+[Level 1] ID: 68c2c10b1da39f003dd50d1d
+  Ground Truth: C
+  Prediction: A, C
+  Truth: C, Pred: A, Score: 0.0000
+
+[Level 2] ID: 688b6215f6c7b8003cc2f4e6
+  Ground Truth: A
+  Prediction: A, B, C
+  Truth: {'A'}, Pred: {'A', 'C', 'B'}, F1: 0.5000
+
+[Level 2] ID: 684fad993fe5e9005ec47ccb
+  Ground Truth: D
+  Prediction: \boxed{C, D}
+  Truth: {'D'}, Pred: {'D', 'C'}, F1: 0.6667
+
+[Level 2] ID: 68a862f75f062a003c24472c
+  Ground Truth: B
+  Prediction: C, D, E
+  Truth: {'B'}, Pred: {'D', 'C', 'E'}, F1: 0.0000
+
+[Level 2] ID: 68a9b46e961bd3003c8f006d
+  Ground Truth: B
+  Prediction: \boxed{C, D}
+  Truth: {'B'}, Pred: {'D', 'C'}, F1: 0.0000
+
+[Level 2] ID: 68aefa74e0afb0003cee0119
+  Ground Truth: B
+  Prediction: A, B, C, E
+  Truth: {'B'}, Pred: {'A', 'E', 'C', 'B'}, F1: 0.4000
+
+[Level 2] ID: 68aefa74e0afb0003cee0118
+  Ground Truth: C
+  Prediction: A, B, C, N, O, Q, R
+  Truth: {'C'}, Pred: {'N', 'A', 'C', 'B', 'Q', 'O', 'R'}, F1: 0.2500
+
+[Level 2] ID: 68c16f85468b31003c22ddaf
+  Ground Truth: B, E, F, G, H, I, J, K, L, M
+  Prediction: A, B, D, E, F, H, M
+  Truth: {'K', 'H', 'G', 'F', 'L', 'E', 'B', 'I', 'J', 'M'}, Pred: {'H', 'A', 'F', 'E', 'D', 'B', 'M'}, F1: 0.5882
+
+[Level 2] ID: 68c2c10b1da39f003dd50d19
+  Ground Truth: G
+  Prediction: D, E, F, G, H, I, J, K
+  Truth: {'G'}, Pred: {'K', 'H', 'G', 'F', 'E', 'D', 'I', 'J'}, F1: 0.2222
+
+[Level 2] ID: 68c2c10b1da39f003dd50d13
+  Ground Truth: G
+  Prediction: A, B, C, D
+  Truth: {'G'}, Pred: {'A', 'D', 'C', 'B'}, F1: 0.0000
+
+[Level 2] ID: 68c2c10b1da39f003dd50d14
+  Ground Truth: D
+  Prediction: E, F, G
+  Truth: {'D'}, Pred: {'F', 'G', 'E'}, F1: 0.0000
+
+[Level 4] ID: 685171e0560ebb0061efb2c3
+  Ground Truth: 89.86 billion yuan
+  Prediction: \boxed{85.2}
+    LLM-Truth: 89.86
+    LLM-Pred: 85.2
+    Std: 0.467, Score: 0.0000
+
+[Level 4] ID: 6851413f7b52bf0069cac9eb
+  Ground Truth: Sketch will be the #1
+  Prediction: The Fantastic Four
+    Truth: ['Sketch will be the #1']
+    Pred: ['The Fantastic Four']
+    Score: 0.0000
+
+[Level 4] ID: 6867949457e54a0061f98f8c
+  Ground Truth: 904.27.
+  Prediction: 1025.50
+    Truth: []
+    Pred: ['50']
+    Score: 0.0000
+
+[Level 3] ID: 685141c3b3bf920060db7796
+  Ground Truth: Novak Djokovic, Taylor Fritz, Ben Shelton.
+  Prediction: 4th: Carlos Alcaraz 5th: Jannik Sinner 6th: Alexander Zverev
+    Truth: ['Novak Djokovic', 'Taylor Fritz', 'Ben Shelton.']
+    Pred: ['Carlos Alcaraz Jannik Sinner Alexander Zverev']
+    Score: 0.0000
+
+[Level 4] ID: 68514628aca664006bceb217
+  Ground Truth: 13
+  Prediction: 7
+    Truth: ['13']
+    Pred: ['7']
+    Score: 0.0000
+
+[Level 4] ID: 6.85147E+23
+  Ground Truth: Onyx Storm,Iron Flame,Harry Potter and the Sorcerer's Stone.
+  Prediction: 6. "The Last Devil to Die" by Richard Osman 7. "The Women" by Kristin Hannah 8. "House of Flame and Shadow" by Sarah J. Maas
+    Truth: ['Onyx Storm', 'Iron Flame', "Harry Potter and the Sorcerer's Stone."]
+    Pred: ['"The Last Devil to Die" by Richard Osman "The Women" by Kristin Hannah "House of Flame and Shadow" by Sarah J. Maas']
+    Score: 0.0000
+
+[Level 4] ID: 6851736beb11c800614780df
+  Ground Truth: The high of Apple stock (AAPL) be for September 23, 2025 will be 257.34 dollar.
+
+  Prediction: 255.00
+    LLM-Truth: 257.34
+    LLM-Pred: 255.0
+    Std: 6.162, Score: 0.8558
+
+[Level 4] ID: 6851737f59f71f006037a1e4
+  Ground Truth: 6699.52
+  Prediction: 6150
+    LLM-Truth: 6699.52
+    LLM-Pred: 6150.0
+    Std: 29.04, Score: 0.0000
+
+[Level 3] ID: 685173c159f71f006037a1e9
+  Ground Truth: 838.34
+  Prediction: 742
+    Truth: ['34']
+    Pred: ['742']
+    Score: 0.0000
+
+[Level 4] ID: 685173d659f71f006037a1eb
+  Ground Truth: 46,396.47
+  Prediction: 43250
+    LLM-Truth: 46396.47
+    LLM-Pred: 43250.0
+    Std: 144.51, Score: 0.0000
+
+[Level 4] ID: 6851740359f71f006037a1ed
+  Ground Truth: 42.6578 millon shares
+  Prediction: 1200000
+    LLM-Truth: 42.6578
+    LLM-Pred: 1.2
+    Std: 6.52, Score: 0.0000
+
+[Level 4] ID: 6851741059f71f006037a1ee
+  Ground Truth: 45634.29
+  Prediction: 41500
+    LLM-Truth: 45634.29
+    LLM-Pred: 41500.0
+    Std: 79.37, Score: 0.0000
+
+[Level 4] ID: 6851744459f71f006037a1f2
+  Ground Truth: 49
+  Prediction: 54
+    LLM-Truth: 49.0
+    LLM-Pred: 54.0
+    Std: 1.178, Score: 0.0000
+
+[Level 4] ID: 6854dcb27df94a0060eb86cf
+  Ground Truth: Alibaba-NLP WebAgent, microsoft ai-agents-for-beginners and datawhalechina happy-llm.
+  Prediction: 2. ollama/ollama 3. langchain-ai/langchain 4. microsoft/PowerToys
+    Truth: ['Alibaba-NLP WebAgent', 'microsoft ai-agents-for-beginners and datawhalechina happy-llm.']
+    Pred: ['ollama/ollama langchain-ai/langchain microsoft/PowerToys']
+    Score: 0.0000
+
+[Level 3] ID: 6854dce17df94a0060eb86d3
+  Ground Truth: 第11名：MasterChef，第12名：Celebrity Family Feud，第13名：Futurama
+  Prediction: 11th：The Handmaid's Tale 12th：Abbott Elementary 13th：The Kardashians
+    Truth: ['第11名：MasterChef', '第12名：Celebrity Family Feud', '第13名：Futurama']
+    Pred: ["The Handmaid's Tale Abbott Elementary The Kardashians"]
+    Score: 0.0000
+
+[Level 3] ID: 6854dfb0a5e49700606af49d
+  Ground Truth: Viktor Hovland, Keegan Bradley, Sepp Straka.
+  Prediction: Tom Kim, Justin Thomas, Sahith Theegala
+    Truth: ['Viktor Hovland', 'Keegan Bradley', 'Sepp Straka.']
+    Pred: ['Tom Kim', 'Justin Thomas', 'Sahith Theegala']
+    Score: 0.0000
+
+[Level 4] ID: 6854e0397ff26400687d2031
+  Ground Truth: moeru-ai airi, datawhalechina happy-llm and anthropics claude-code.
+  Prediction: ProjectGamma, DevKitUltra, DataVizPro
+    Truth: ['moeru-ai airi', 'datawhalechina happy-llm and anthropics claude-code.']
+    Pred: ['ProjectGamma', 'DevKitUltra', 'DataVizPro']
+    Score: 0.0000
+
+[Level 3] ID: 6854e07a8a3a0d00612e86dc
+  Ground Truth: One Golden Summer, The Surrogate Mother and Sunrise on the Reaping (The Hunger Games, #0.5).
+  Prediction: 10th: The Familiar 11th: The Last Housewife 12th: The Midnight Library
+    Truth: ['One Golden Summer', 'The Surrogate Mother and Sunrise on the Reaping (The Hunger Games', '#5).']
+    Pred: ['The Familiar The Last Housewife The Midnight Library']
+    Score: 0.0000
+
+[Level 4] ID: 685e4932e582f0005f9cd2cc
+  Ground Truth: 30.98%
+  Prediction: 45\%
+    LLM-Truth: 30.98
+    LLM-Pred: 45.0
+    Std: 2.145, Score: 0.0000
+
+[Level 3] ID: 68774dbf27798c003c8a0dce
+  Ground Truth: 我的祖母是穿越女.
+  Prediction: The Revenge of the Scorned Wife
+    Truth: ['我的祖母是穿越女.']
+    Pred: ['The Revenge of the Scorned Wife']
+    Score: 0.0000
+
+[Level 3] ID: 68774dcaefdf6b003bf288c9
+  Ground Truth: 4659
+  Prediction: 385
+    LLM-Truth: 4659.0
+    LLM-Pred: 385.0
+    Std: 32.44, Score: 0.0000
+
+[Level 4] ID: 68774e5b17ef980047f8ce68
+  Ground Truth: Echo_Wish, Lion 莱恩呀 and 编程小妖女.
+  Prediction: 6. 云智小助手 7. 开发者小助手 8. 腾讯云开发者
+    Truth: ['Echo_Wish', 'Lion 莱恩呀 and 编程小妖女.']
+    Pred: ['云智小助手 开发者小助手 腾讯云开发者']
+    Score: 0.0000
+
+[Level 4] ID: 687df3a41d972f003b8ba68c
+  Ground Truth: 240.15 million yuan
+  Prediction: 850000000
+    LLM-Truth: 240.15
+    LLM-Pred: 850.0
+    Std: 34.91, Score: 0.0000
+
+[Level 4] ID: 687df3b6ff05a4003c601bc2
+  Ground Truth: 89.92 dollar
+  Prediction: 23450
+    LLM-Truth: 89.92
+    LLM-Pred: 23450.0
+    Std: 1.909, Score: 0.0000
+
+[Level 4] ID: 685171b65b1af900600a3306
+  Ground Truth: 159,936,400 thousand yuan
+  Prediction: 1350000000
+    LLM-Truth: 159936400.0
+    LLM-Pred: 1350000.0
+    Std: 1644049.0, Score: 0.0000
+
+[Level 4] ID: 6851738859f71f006037a1e5
+  Ground Truth: 4522.61
+  Prediction: 125000000000
+    LLM-Truth: 4522.61
+    LLM-Pred: 0.0
+    Std: 18.89, Score: 0.0000
+
+[Level 4] ID: 6851739159f71f006037a1e6
+  Ground Truth: 10362 millions yuan
+  Prediction: 4.8 billion CNY
+    LLM-Truth: 10362.0
+    LLM-Pred: 4800.0
+    Std: 2614.4, Score: 0.0000
+
+[Level 4] ID: 685174aa59f71f006037a1f7
+  Ground Truth: 12th：校园二狗子 13th：九转大腸 14th：一颗霉屎a
+  Prediction: 12th：Mr. Funny (搞笑大王) 13th：Joke Factory (笑话工厂) 14th：Comedy Hub (喜剧中心)
+    Truth: ['校园二狗子 九转大腸 一颗霉屎a']
+    Pred: ['Mr. Funny (搞笑大王) Joke Factory (笑话工厂) Comedy Hub (喜剧中心)']
+    Score: 0.0000
+Warning: No answer found for ID 68774ddd3083b1003c629ca8
+
+==================================================
+评估结果:
+总分: 0.0863
+
+各级别得分:
+  Level 1: 0.1818 (共 11 题)
+  Level 2: 0.2627 (共 10 题)
+  Level 3: 0.0000 (共 9 题)
+  Level 4: 0.0389 (共 22 题)

@@ -1,0 +1,335 @@
+正在评估文件: 250915-simple_search1.json
+
+[Level 3] ID: 687071faab86ea0060215bc7
+  Ground Truth: \boxed{第6名：丁禹兮，第7名：TOP登陆少年-苏新皓，第8名：时代少年团-严浩翔}
+  Prediction: 6th：思想聚焦 7th：回忆专用小马甲 8th：韩寒
+    Truth: ['第6名：丁禹兮', '第7名：TOP登陆少年-苏新皓', '第8名：时代少年团-严浩翔']
+    Pred: ['思想聚焦 回忆专用小马甲 韩寒']
+    Score: 0.0000
+
+[Level 4] ID: 6.85147E+23
+  Ground Truth: \boxed{Kimi、Shutterstock、Gamma}
+  Prediction: DeepSeek-V3, Zhipu Qingyan, Baichuan AI
+    Truth: ['Kimi', 'Shutterstock', 'Gamma']
+    Pred: ['DeepSeek-V3', 'Zhipu Qingyan', 'Baichuan AI']
+    Score: 0.0000
+
+[Level 3] ID: 685e4893e582f0005f9cd2c8
+  Ground Truth: \boxed{1. 《刺杀小说家2》(Killing a Novelist 2), 2. 《志愿军：浴血和平》(The Volunteers: Battle of Life and Death), 3. 《熊猫计划2》(Panda Plan 2)}
+  Prediction: 1. The Myth Part 3 (神话3) 2. Avatar 4 3. Detective Chinatown 5 (唐人街探案5)
+    Truth: ['《刺杀小说家2》(Killing a Novelist 2)', '《志愿军：浴血和平》(The Volunteers: Battle of Life and Death)', '《熊猫计划2》(Panda Plan 2)']
+    Pred: ['The Myth Part (神话3) Avatar Detective Chinatown (唐人街探案5)']
+    Score: 0.0000
+
+[Level 1] ID: 68a9b46e961bd3003c8f006b
+  Ground Truth: Yes
+  Prediction: \boxed{No}
+  Truth: Yes, Pred: NO, Score: 0.0000
+
+[Level 1] ID: 687104310a994c0060ef87a9
+  Ground Truth: Yes
+  Prediction: \boxed{No}
+  Truth: Yes, Pred: NO, Score: 0.0000
+
+[Level 1] ID: 68bd7b12d2cf39003b383f13
+  Ground Truth: B
+  Prediction: \boxed{C}
+  Truth: B, Pred: C, Score: 0.0000
+
+[Level 1] ID: 68bd7b12d2cf39003b383f12
+  Ground Truth: C
+  Prediction: \boxed{C}
+  Truth: C, Pred: C, Score: 1.0000
+
+[Level 1] ID: 68bd7b12d2cf39003b383f10
+  Ground Truth: B
+  Prediction: \boxed{C}
+  Truth: B, Pred: C, Score: 0.0000
+
+[Level 1] ID: 68a9b46e961bd3003c8f006c
+  Ground Truth: No
+  Prediction: \boxed{No}
+  Truth: No, Pred: NO, Score: 1.0000
+
+[Level 1] ID: 68c2c10b1da39f003dd50d23
+  Ground Truth: B
+  Prediction: \boxed{B}
+  Truth: B, Pred: B, Score: 1.0000
+
+[Level 1] ID: 68c2c10b1da39f003dd50d20
+  Ground Truth: A
+  Prediction: \boxed{A}
+  Truth: A, Pred: A, Score: 1.0000
+
+[Level 1] ID: 684fad993fe5e9005ec47c53
+  Ground Truth: B
+  Prediction: \boxed{B}
+  Truth: B, Pred: B, Score: 1.0000
+
+[Level 1] ID: 68c2c1331da39f003dd50d3d
+  Ground Truth: B
+  Prediction: \boxed{A}
+  Truth: B, Pred: A, Score: 0.0000
+
+[Level 1] ID: 68c2c10b1da39f003dd50d1d
+  Ground Truth: C
+  Prediction: \boxed{A}
+  Truth: C, Pred: A, Score: 0.0000
+
+[Level 2] ID: 688b6215f6c7b8003cc2f4e6
+  Ground Truth: A
+  Prediction: \boxed{A}
+  Truth: {'A'}, Pred: {'A'}, F1: 1.0000
+
+[Level 2] ID: 684fad993fe5e9005ec47ccb
+  Ground Truth: D
+  Prediction: \boxed{D}
+  Truth: {'D'}, Pred: {'D'}, F1: 1.0000
+
+[Level 2] ID: 68a862f75f062a003c24472c
+  Ground Truth: B
+  Prediction: \boxed{E}
+  Truth: {'B'}, Pred: {'E'}, F1: 0.0000
+
+[Level 2] ID: 68a9b46e961bd3003c8f006d
+  Ground Truth: B
+  Prediction: \boxed{E}
+  Truth: {'B'}, Pred: {'E'}, F1: 0.0000
+
+[Level 2] ID: 68aefa74e0afb0003cee0119
+  Ground Truth: B
+  Prediction: \boxed{A}
+  Truth: {'B'}, Pred: {'A'}, F1: 0.0000
+
+[Level 2] ID: 68aefa74e0afb0003cee0118
+  Ground Truth: C
+  Prediction: \boxed{A, C, O, Q}
+  Truth: {'C'}, Pred: {'A', 'C', 'Q', 'O'}, F1: 0.4000
+
+[Level 2] ID: 68c16f85468b31003c22ddaf
+  Ground Truth: B, E, F, G, H, I, J, K, L, M
+  Prediction: \boxed{A, B, D, H, L, M}
+  Truth: {'I', 'L', 'E', 'H', 'F', 'G', 'J', 'B', 'K', 'M'}, Pred: {'L', 'H', 'A', 'D', 'B', 'M'}, F1: 0.5000
+
+[Level 2] ID: 68c2c10b1da39f003dd50d19
+  Ground Truth: G
+  Prediction: \boxed{D, E, F}
+  Truth: {'G'}, Pred: {'D', 'F', 'E'}, F1: 0.0000
+
+[Level 2] ID: 68c2c10b1da39f003dd50d13
+  Ground Truth: G
+  Prediction: \boxed{F, G}
+  Truth: {'G'}, Pred: {'F', 'G'}, F1: 0.6667
+
+[Level 2] ID: 68c2c10b1da39f003dd50d14
+  Ground Truth: D
+  Prediction: \boxed{C}
+  Truth: {'D'}, Pred: {'C'}, F1: 0.0000
+
+[Level 4] ID: 685171e0560ebb0061efb2c3
+  Ground Truth: 89.86 billion yuan
+  Prediction: \boxed{90.8}
+    LLM-Truth: 89.86
+    LLM-Pred: 90.8
+    Std: 0.467, Score: 0.0000
+
+[Level 4] ID: 6851413f7b52bf0069cac9eb
+  Ground Truth: Sketch will be the #1
+  Prediction: \boxed{Him}
+    Truth: ['Sketch will be the #1']
+    Pred: ['Him']
+    Score: 0.0000
+
+[Level 4] ID: 6867949457e54a0061f98f8c
+  Ground Truth: 904.27.
+  Prediction: 900
+    LLM-Truth: 904.27
+    LLM-Pred: 900.0
+    Std: 10, Score: 0.8177
+
+[Level 3] ID: 685141c3b3bf920060db7796
+  Ground Truth: Novak Djokovic, Taylor Fritz, Ben Shelton.
+  Prediction: Casper Ruud, Alexander Zverev, Daniil Medvedev
+    Truth: ['Novak Djokovic', 'Taylor Fritz', 'Ben Shelton.']
+    Pred: ['Casper Ruud', 'Alexander Zverev', 'Daniil Medvedev']
+    Score: 0.0000
+
+[Level 4] ID: 68514628aca664006bceb217
+  Ground Truth: 13
+  Prediction: \boxed{18}
+    Truth: ['13']
+    Pred: ['18']
+    Score: 0.0000
+
+[Level 4] ID: 6.85147E+23
+  Ground Truth: Onyx Storm,Iron Flame,Harry Potter and the Sorcerer's Stone.
+  Prediction: 6th: Onyx Storm by Rebecca Yarros 7th: It Ends with Us by Colleen Hoover 8th: The Housemaid by Freida McFadden\boxed{6th: Onyx Storm by Rebecca Yarros 7th: It Ends with Us by Colleen Hoover 8th: The Housemaid by Freida McFadden}
+    Truth: ['Onyx Storm', 'Iron Flame', "Harry Potter and the Sorcerer's Stone."]
+    Pred: ['Onyx Storm by Rebecca Yarros It Ends with Us by Colleen Hoover The Housemaid by Freida McFadden']
+    Score: 0.0000
+
+[Level 4] ID: 6851736beb11c800614780df
+  Ground Truth: The high of Apple stock (AAPL) be for September 23, 2025 will be 257.34 dollar.
+
+  Prediction: \boxed{272.50}
+    LLM-Truth: 257.34
+    LLM-Pred: 272.5
+    Std: 6.162, Score: 0.0000
+
+[Level 4] ID: 6851737f59f71f006037a1e4
+  Ground Truth: 6699.52
+  Prediction: \boxed{6825}
+    LLM-Truth: 6699.52
+    LLM-Pred: 6825.0
+    Std: 29.04, Score: 0.0000
+
+[Level 3] ID: 685173c159f71f006037a1e9
+  Ground Truth: 838.34
+  Prediction: \boxed{825}
+    LLM-Truth: 838.34
+    LLM-Pred: 825.0
+    Std: 10, Score: 0.0000
+
+[Level 4] ID: 685173d659f71f006037a1eb
+  Ground Truth: 46,396.47
+  Prediction: \boxed{47,850}
+    LLM-Truth: 46396.47
+    LLM-Pred: 47850.0
+    Std: 144.51, Score: 0.0000
+
+[Level 4] ID: 6851740359f71f006037a1ed
+  Ground Truth: 42.6578 millon shares
+  Prediction: \boxed{285,000}
+    LLM-Truth: 42.6578
+    LLM-Pred: 0.285
+    Std: 6.52, Score: 0.0000
+
+[Level 4] ID: 6851741059f71f006037a1ee
+  Ground Truth: 45634.29
+  Prediction: \boxed{45850}
+    LLM-Truth: 45634.29
+    LLM-Pred: 45850.0
+    Std: 79.37, Score: 0.0000
+
+[Level 4] ID: 6851744459f71f006037a1f2
+  Ground Truth: 49
+  Prediction: 72
+    LLM-Truth: 49.0
+    LLM-Pred: 72.0
+    Std: 1.178, Score: 0.0000
+
+[Level 4] ID: 6854dcb27df94a0060eb86cf
+  Ground Truth: Alibaba-NLP WebAgent, microsoft ai-agents-for-beginners and datawhalechina happy-llm.
+  Prediction: DeepResearch, Phidata, WebAgent
+    Truth: ['Alibaba-NLP WebAgent', 'microsoft ai-agents-for-beginners and datawhalechina happy-llm.']
+    Pred: ['DeepResearch', 'Phidata', 'WebAgent']
+    Score: 0.0000
+
+[Level 3] ID: 6854dce17df94a0060eb86d3
+  Ground Truth: 第11名：MasterChef，第12名：Celebrity Family Feud，第13名：Futurama
+  Prediction: 11th：The Handmaid's Tale 12th：This Is Us 13th：Modern Family
+    Truth: ['第11名：MasterChef', '第12名：Celebrity Family Feud', '第13名：Futurama']
+    Pred: ["The Handmaid's Tale This Is Us Modern Family"]
+    Score: 0.0000
+
+[Level 3] ID: 6854dfb0a5e49700606af49d
+  Ground Truth: Viktor Hovland, Keegan Bradley, Sepp Straka.
+  Prediction: Viktor Hovland, Keegan Bradley, Ludvig Åberg
+    Truth: ['Viktor Hovland', 'Keegan Bradley', 'Sepp Straka.']
+    Pred: ['Viktor Hovland', 'Keegan Bradley', 'Ludvig Åberg']
+    Score: 0.5333
+
+[Level 4] ID: 6854e0397ff26400687d2031
+  Ground Truth: moeru-ai airi, datawhalechina happy-llm and anthropics claude-code.
+  Prediction: deepseek-ai/deepseek-coder, microsoft/autogen, anthropic/claude-code
+    Truth: ['moeru-ai airi', 'datawhalechina happy-llm and anthropics claude-code.']
+    Pred: ['deepseek-ai/deepseek-coder', 'microsoft/autogen', 'anthropic/claude-code']
+    Score: 0.0000
+
+[Level 3] ID: 6854e07a8a3a0d00612e86dc
+  Ground Truth: One Golden Summer, The Surrogate Mother and Sunrise on the Reaping (The Hunger Games, #0.5).
+  Prediction: Alchemised by SenLinYu, Wild Card by Elsie Silver, The Primal of Blood and Bone by various authors
+    Truth: ['One Golden Summer', 'The Surrogate Mother and Sunrise on the Reaping (The Hunger Games', '#5).']
+    Pred: ['Alchemised by SenLinYu', 'Wild Card by Elsie Silver', 'The Primal of Blood and Bone by various authors']
+    Score: 0.0000
+
+[Level 4] ID: 685e4932e582f0005f9cd2cc
+  Ground Truth: 30.98%
+  Prediction: \boxed{38.2\%}
+    LLM-Truth: 30.98
+    LLM-Pred: 38.2
+    Std: 2.145, Score: 0.0000
+
+[Level 3] ID: 68774dbf27798c003c8a0dce
+  Ground Truth: 我的祖母是穿越女.
+  Prediction: 凤隐天下2
+    Truth: ['我的祖母是穿越女.']
+    Pred: ['凤隐天下2']
+    Score: 0.0000
+
+[Level 3] ID: 68774dcaefdf6b003bf288c9
+  Ground Truth: 4659
+  Prediction: \boxed{5200}
+    LLM-Truth: 4659.0
+    LLM-Pred: 5200.0
+    Std: 32.44, Score: 0.0000
+
+[Level 4] ID: 68774e5b17ef980047f8ce68
+  Ground Truth: Echo_Wish, Lion 莱恩呀 and 编程小妖女.
+  Prediction: 武培峰, 张戈, 陈睿
+    Truth: ['Echo_Wish', 'Lion 莱恩呀 and 编程小妖女.']
+    Pred: ['武培峰', '张戈', '陈睿']
+    Score: 0.0000
+
+[Level 4] ID: 687df3a41d972f003b8ba68c
+  Ground Truth: 240.15 million yuan
+  Prediction: \boxed{2,850,000}
+    LLM-Truth: 240.15
+    LLM-Pred: 2.85
+    Std: 34.91, Score: 0.0000
+
+[Level 4] ID: 687df3b6ff05a4003c601bc2
+  Ground Truth: 89.92 dollar
+  Prediction: \boxed{24,800}
+    LLM-Truth: 89.92
+    LLM-Pred: 24800.0
+    Std: 1.909, Score: 0.0000
+
+[Level 4] ID: 685171b65b1af900600a3306
+  Ground Truth: 159,936,400 thousand yuan
+  Prediction: \boxed{1.62}
+    LLM-Truth: 159936400.0
+    LLM-Pred: 162000.0
+    Std: 1644049.0, Score: 0.0000
+
+[Level 4] ID: 6851738859f71f006037a1e5
+  Ground Truth: 4522.61
+  Prediction: \boxed{4,200,000,000}
+    LLM-Truth: 4522.61
+    LLM-Pred: 4200000.0
+    Std: 18.89, Score: 0.0000
+
+[Level 4] ID: 6851739159f71f006037a1e6
+  Ground Truth: 10362 millions yuan
+  Prediction: \boxed{¥82.5 billion}
+    LLM-Truth: 10362.0
+    LLM-Pred: 82500.0
+    Std: 2614.4, Score: 0.0000
+
+[Level 4] ID: 685174aa59f71f006037a1f7
+  Ground Truth: 12th：校园二狗子 13th：九转大腸 14th：一颗霉屎a
+  Prediction: 12th：牛的滑滑 13th：农村木匠哥 14th：铁汁妹妹s
+    Truth: ['校园二狗子 九转大腸 一颗霉屎a']
+    Pred: ['牛的滑滑 农村木匠哥 铁汁妹妹s']
+    Score: 0.0000
+Warning: No answer found for ID 68774ddd3083b1003c629ca8
+
+==================================================
+评估结果:
+总分: 0.1494
+
+各级别得分:
+  Level 1: 0.4545 (共 11 题)
+  Level 2: 0.3567 (共 10 题)
+  Level 3: 0.0593 (共 9 题)
+  Level 4: 0.0372 (共 22 题)

@@ -1,0 +1,502 @@
+[
+  {
+    "id": "2c18802e6327475aa30a9383",
+    "prompt": "You are an agent that can predict future events. The event to be predicted: \"2025-07-24 (GMT+8), What will be Honeywell's revenue?\"\n        IMPORTANT: Your final answer MUST end with this exact format:\n        \\boxed{YOUR_PREDICTION}\n        Do not use any other format. Do not refuse to make a prediction. Do not say \"I cannot predict the future.\" You must make a clear prediction based on the best data currently available, using the box format specified above.",
+    "end_time": "2025-07-24 (GMT+8)",
+    "level": 3,
+    "ground_truth": "10400000000",
+    "Std": 484000000.0,
+    "additional values": "10020000000.0000",
+    "Description": null
+  },
+  {
+    "id": "607e355be95f470ebe47f676",
+    "prompt": "You are an agent that can predict future events. The event to be predicted: \"2025-07-24 (GMT+8), What will be SLM's revenue?\"\n        IMPORTANT: Your final answer MUST end with this exact format:\n        \\boxed{YOUR_PREDICTION}\n        Do not use any other format. Do not refuse to make a prediction. Do not say \"I cannot predict the future.\" You must make a clear prediction based on the best data currently available, using the box format specified above.",
+    "end_time": "2025-07-24 (GMT+8)",
+    "level": 3,
+    "ground_truth": "254880000",
+    "Std": 118068800.0,
+    "additional values": "370400000.0000",
+    "Description": null
+  },
+  {
+    "id": "2092ecf5fdc64f6d81f6d03f",
+    "prompt": "You are an agent that can predict future events. The event to be predicted: \"2025-07-24 (GMT+8), What will be CNX Resources's revenue?\"\n        IMPORTANT: Your final answer MUST end with this exact format:\n        \\boxed{YOUR_PREDICTION}\n        Do not use any other format. Do not refuse to make a prediction. Do not say \"I cannot predict the future.\" You must make a clear prediction based on the best data currently available, using the box format specified above.",
+    "end_time": "2025-07-24 (GMT+8)",
+    "level": 3,
+    "ground_truth": "962422000.0000",
+    "Std": 493116220.0,
+    "additional values": "478930000.0000",
+    "Description": null
+  },
+  {
+    "id": "085b8df2ba6e4a0b8f2523a8",
+    "prompt": "You are an agent that can predict future events. The event to be predicted: \"2025-08-21 (GMT+8), What will be Intuit's revenue?\"\n        IMPORTANT: Your final answer MUST end with this exact format:\n        \\boxed{YOUR_PREDICTION}\n        Do not use any other format. Do not refuse to make a prediction. Do not say \"I cannot predict the future.\" You must make a clear prediction based on the best data currently available, using the box format specified above.",
+    "end_time": "2025-08-21 (GMT+8)",
+    "level": 3,
+    "ground_truth": "3800000000",
+    "Std": 88000000.0,
+    "additional values": "3750000000.0000",
+    "Description": null
+  },
+  {
+    "id": "50f4a6ed39f04c7aae9e7723",
+    "prompt": "You are an agent that can predict future events. The event to be predicted: \"2025-08-12 (GMT+8), What will be H&R Block's revenue?\"\n        IMPORTANT: Your final answer MUST end with this exact format:\n        \\boxed{YOUR_PREDICTION}\n        Do not use any other format. Do not refuse to make a prediction. Do not say \"I cannot predict the future.\" You must make a clear prediction based on the best data currently available, using the box format specified above.",
+    "end_time": "2025-08-12 (GMT+8)",
+    "level": 3,
+    "ground_truth": "1110000000",
+    "Std": 51100000.0,
+    "additional values": "1070000000.0000",
+    "Description": null
+  },
+  {
+    "id": "f05ac956a1514289abce49ad",
+    "prompt": "You are an agent that can predict future events. The event to be predicted: \"2025-08-20 (GMT+8), What will be T1 Energy's revenue?\"\n        IMPORTANT: Your final answer MUST end with this exact format:\n        \\boxed{YOUR_PREDICTION}\n        Do not use any other format. Do not refuse to make a prediction. Do not say \"I cannot predict the future.\" You must make a clear prediction based on the best data currently available, using the box format specified above.",
+    "end_time": "2025-08-20 (GMT+8)",
+    "level": 3,
+    "ground_truth": "132767000",
+    "Std": 8460670.0,
+    "additional values": "139900000.0000",
+    "Description": null
+  },
+  {
+    "id": "779c05f8e1874cc589618e97",
+    "prompt": "You are an agent that can predict future events. The event to be predicted: \"2025-08-06 (GMT+8), What will be Nisource's revenue?\"\n        IMPORTANT: Your final answer MUST end with this exact format:\n        \\boxed{YOUR_PREDICTION}\n        Do not use any other format. Do not refuse to make a prediction. Do not say \"I cannot predict the future.\" You must make a clear prediction based on the best data currently available, using the box format specified above.",
+    "end_time": "2025-08-06 (GMT+8)",
+    "level": 3,
+    "ground_truth": "1160000000",
+    "Std": 61600000.0,
+    "additional values": "1210000000.0000",
+    "Description": null
+  },
+  {
+    "id": "6d32aa4177e9468a8f60f352",
+    "prompt": "You are an agent that can predict future events. The event to be predicted: \"2025-09-03 (GMT+8), What will be Macy's's revenue?\"\n        IMPORTANT: Your final answer MUST end with this exact format:\n        \\boxed{YOUR_PREDICTION}\n        Do not use any other format. Do not refuse to make a prediction. Do not say \"I cannot predict the future.\" You must make a clear prediction based on the best data currently available, using the box format specified above.",
+    "end_time": "2025-09-03 (GMT+8)",
+    "level": 3,
+    "ground_truth": "4812000000",
+    "Std": 160120000.0,
+    "additional values": "4700000000.0000",
+    "Description": null
+  },
+  {
+    "id": "04d243f0f0074843a3ba9767",
+    "prompt": "You are an agent that can predict future events. The event to be predicted: \"2025-08-27 (GMT+8), What will be Kohl'S's revenue?\"\n        IMPORTANT: Your final answer MUST end with this exact format:\n        \\boxed{YOUR_PREDICTION}\n        Do not use any other format. Do not refuse to make a prediction. Do not say \"I cannot predict the future.\" You must make a clear prediction based on the best data currently available, using the box format specified above.",
+    "end_time": "2025-08-27 (GMT+8)",
+    "level": 3,
+    "ground_truth": "3350000000",
+    "Std": 53500000.0,
+    "additional values": "3370000000.0000",
+    "Description": null
+  },
+  {
+    "id": "1a64680ca4d44331a83d7a3d",
+    "prompt": "You are an agent that can predict future events. The event to be predicted: \"2025-07-31 (GMT+8), What will be First Solar's revenue?\"\n        IMPORTANT: Your final answer MUST end with this exact format:\n        \\boxed{YOUR_PREDICTION}\n        Do not use any other format. Do not refuse to make a prediction. Do not say \"I cannot predict the future.\" You must make a clear prediction based on the best data currently available, using the box format specified above.",
+    "end_time": "2025-07-31 (GMT+8)",
+    "level": 3,
+    "ground_truth": "1100000000",
+    "Std": 71000000.0,
+    "additional values": "1040000000.0000",
+    "Description": null
+  },
+  {
+    "id": "856349112ce14f09a67b8af2",
+    "prompt": "You are an agent that can predict future events. The event to be predicted: \"2025-09-09 (GMT+8), What will be GameStop's revenue?\"\n        IMPORTANT: Your final answer MUST end with this exact format:\n        \\boxed{YOUR_PREDICTION}\n        Do not use any other format. Do not refuse to make a prediction. Do not say \"I cannot predict the future.\" You must make a clear prediction based on the best data currently available, using the box format specified above.",
+    "end_time": "2025-09-09 (GMT+8)",
+    "level": 3,
+    "ground_truth": "972200000",
+    "Std": 158672000.0,
+    "additional values": "823250000.0000",
+    "Description": null
+  },
+  {
+    "id": "642f63ce12094d7f9afaba34",
+    "prompt": "You are an agent that can predict future events. The event to be predicted: \"2025-07-30 (GMT+8), What will be WEC Energy's revenue?\"\n        IMPORTANT: Your final answer MUST end with this exact format:\n        \\boxed{YOUR_PREDICTION}\n        Do not use any other format. Do not refuse to make a prediction. Do not say \"I cannot predict the future.\" You must make a clear prediction based on the best data currently available, using the box format specified above.",
+    "end_time": "2025-07-30 (GMT+8)",
+    "level": 3,
+    "ground_truth": "2010000000",
+    "Std": 280100000.0,
+    "additional values": "1750000000.0000",
+    "Description": null
+  },
+  {
+    "id": "9409190749594d1bb325b2ce",
+    "prompt": "You are an agent that can predict future events. The event to be predicted: \"2025-08-28 (GMT+8), What will be Best Buy's revenue?\"\n        IMPORTANT: Your final answer MUST end with this exact format:\n        \\boxed{YOUR_PREDICTION}\n        Do not use any other format. Do not refuse to make a prediction. Do not say \"I cannot predict the future.\" You must make a clear prediction based on the best data currently available, using the box format specified above.",
+    "end_time": "2025-08-28 (GMT+8)",
+    "level": 3,
+    "ground_truth": "9440000000",
+    "Std": 304400000.0,
+    "additional values": "9230000000.0000",
+    "Description": null
+  },
+  {
+    "id": "241f1e21add542099d3a6068",
+    "prompt": "You are an agent that can predict future events. The event to be predicted: \"2025-07-29 (GMT+8), What will be Dte Energy's revenue?\"\n        IMPORTANT: Your final answer MUST end with this exact format:\n        \\boxed{YOUR_PREDICTION}\n        Do not use any other format. Do not refuse to make a prediction. Do not say \"I cannot predict the future.\" You must make a clear prediction based on the best data currently available, using the box format specified above.",
+    "end_time": "2025-07-29 (GMT+8)",
+    "level": 3,
+    "ground_truth": "2910000000",
+    "Std": 189100000.0,
+    "additional values": "2750000000.0000",
+    "Description": null
+  },
+  {
+    "id": "62ac7d7dcbbe4d52bf9610ca",
+    "prompt": "You are an agent that can predict future events. The event to be predicted: \"2025-07-22 (GMT+8), What will be Eqt's revenue?\"\n        IMPORTANT: Your final answer MUST end with this exact format:\n        \\boxed{YOUR_PREDICTION}\n        Do not use any other format. Do not refuse to make a prediction. Do not say \"I cannot predict the future.\" You must make a clear prediction based on the best data currently available, using the box format specified above.",
+    "end_time": "2025-07-22 (GMT+8)",
+    "level": 3,
+    "ground_truth": "2560000000",
+    "Std": 805600000.0,
+    "additional values": "1780000000.0000",
+    "Description": null
+  },
+  {
+    "id": "dfcb7fe61b574ceea23d5a38",
+    "prompt": "You are an agent that can predict future events. The event to be predicted: \"2025-08-28 (GMT+8), What will be Abercrombie & Fitch's revenue?\"\n        IMPORTANT: Your final answer MUST end with this exact format:\n        \\boxed{YOUR_PREDICTION}\n        Do not use any other format. Do not refuse to make a prediction. Do not say \"I cannot predict the future.\" You must make a clear prediction based on the best data currently available, using the box format specified above.",
+    "end_time": "2025-08-28 (GMT+8)",
+    "level": 3,
+    "ground_truth": "1200000000",
+    "Std": 22000000.0,
+    "additional values": "1190000000.0000",
+    "Description": null
+  },
+  {
+    "id": "66b1e0f57f9b43e688efe1c0",
+    "prompt": "You are an agent that can predict future events. The event to be predicted: \"2025-07-24 (GMT+8), What will be Centerpoint Energy's revenue?\"\n        IMPORTANT: Your final answer MUST end with this exact format:\n        \\boxed{YOUR_PREDICTION}\n        Do not use any other format. Do not refuse to make a prediction. Do not say \"I cannot predict the future.\" You must make a clear prediction based on the best data currently available, using the box format specified above.",
+    "end_time": "2025-07-24 (GMT+8)",
+    "level": 3,
+    "ground_truth": "1940000000",
+    "Std": 79400000.0,
+    "additional values": "2000000000.0000",
+    "Description": null
+  },
+  {
+    "id": "777898bdc5af4a5b8ac7f80d",
+    "prompt": "You are an agent that can predict future events. The event to be predicted: \"2025-07-29 (GMT+8), What will be Electronic Arts's revenue?\"\n        IMPORTANT: Your final answer MUST end with this exact format:\n        \\boxed{YOUR_PREDICTION}\n        Do not use any other format. Do not refuse to make a prediction. Do not say \"I cannot predict the future.\" You must make a clear prediction based on the best data currently available, using the box format specified above.",
+    "end_time": "2025-07-29 (GMT+8)",
+    "level": 3,
+    "ground_truth": "1298000000",
+    "Std": 70980000.0,
+    "additional values": "1240000000.0000",
+    "Description": null
+  },
+  {
+    "id": "ffd3f587536f4358be273c21",
+    "prompt": "You are an agent that can predict future events. The event to be predicted: \"2025-07-30 (GMT+8), What will be Ford Motor's revenue?\"\n        IMPORTANT: Your final answer MUST end with this exact format:\n        \\boxed{YOUR_PREDICTION}\n        Do not use any other format. Do not refuse to make a prediction. Do not say \"I cannot predict the future.\" You must make a clear prediction based on the best data currently available, using the box format specified above.",
+    "end_time": "2025-07-30 (GMT+8)",
+    "level": 3,
+    "ground_truth": "50180000000",
+    "Std": 6751800000.0,
+    "additional values": "43930000000.0000",
+    "Description": null
+  },
+  {
+    "id": "3dc3b613e8884efa87606dd3",
+    "prompt": "You are an agent that can predict future events. The event to be predicted: \"2025-07-31 (GMT+8), What will be CMS Energy's revenue?\"\n        IMPORTANT: Your final answer MUST end with this exact format:\n        \\boxed{YOUR_PREDICTION}\n        Do not use any other format. Do not refuse to make a prediction. Do not say \"I cannot predict the future.\" You must make a clear prediction based on the best data currently available, using the box format specified above.",
+    "end_time": "2025-07-31 (GMT+8)",
+    "level": 3,
+    "ground_truth": "1840000000",
+    "Std": 158400000.0,
+    "additional values": "1700000000.0000",
+    "Description": null
+  },
+  {
+    "id": "251b50ad32cc48268dc1760f",
+    "prompt": "You are an agent that can predict future events. The event to be predicted: \"2025-07-30 (GMT+8), What will be FMC's revenue?\"\n        IMPORTANT: Your final answer MUST end with this exact format:\n        \\boxed{YOUR_PREDICTION}\n        Do not use any other format. Do not refuse to make a prediction. Do not say \"I cannot predict the future.\" You must make a clear prediction based on the best data currently available, using the box format specified above.",
+    "end_time": "2025-07-30 (GMT+8)",
+    "level": 3,
+    "ground_truth": "1050000000",
+    "Std": 65950000.0,
+    "additional values": "994550000.0000",
+    "Description": null
+  },
+  {
+    "id": "d763617d9dd74955a2293d38",
+    "prompt": "You are an agent that can predict future events. The event to be predicted: \"2025-07-23 (GMT+8), What will be Freeport-McMoRan's revenue?\"\n        IMPORTANT: Your final answer MUST end with this exact format:\n        \\boxed{YOUR_PREDICTION}\n        Do not use any other format. Do not refuse to make a prediction. Do not say \"I cannot predict the future.\" You must make a clear prediction based on the best data currently available, using the box format specified above.",
+    "end_time": "2025-07-23 (GMT+8)",
+    "level": 3,
+    "ground_truth": "7580000000",
+    "Std": 465800000.0,
+    "additional values": "7190000000.0000",
+    "Description": null
+  },
+  {
+    "id": "4da18e52835b482ab25ba7a3",
+    "prompt": "You are an agent that can predict future events. The event to be predicted: \"2025-08-07 (GMT+8), What will be Consolidated Edison's revenue?\"\n        IMPORTANT: Your final answer MUST end with this exact format:\n        \\boxed{YOUR_PREDICTION}\n        Do not use any other format. Do not refuse to make a prediction. Do not say \"I cannot predict the future.\" You must make a clear prediction based on the best data currently available, using the box format specified above.",
+    "end_time": "2025-08-07 (GMT+8)",
+    "level": 3,
+    "ground_truth": "3595000000",
+    "Std": 180950000.0,
+    "additional values": "3450000000.0000",
+    "Description": null
+  },
+  {
+    "id": "d151b7e9c6b14e1ba16f47a5",
+    "prompt": "You are an agent that can predict future events. The event to be predicted: \"2025-06-20 (GMT+8), What will be The Kroger's revenue?\"\n        IMPORTANT: Your final answer MUST end with this exact format:\n        \\boxed{YOUR_PREDICTION}\n        Do not use any other format. Do not refuse to make a prediction. Do not say \"I cannot predict the future.\" You must make a clear prediction based on the best data currently available, using the box format specified above.",
+    "end_time": "2025-06-20 (GMT+8)",
+    "level": 3,
+    "ground_truth": "45118000000",
+    "Std": 643180000.0,
+    "additional values": "45310000000.0000",
+    "Description": null
+  },
+  {
+    "id": "038b2c2d8f3440c1ab35556e",
+    "prompt": "You are an agent that can predict future events. The event to be predicted: \"2025-08-06 (GMT+8), What will be Pinnacle West Capital's revenue?\"\n        IMPORTANT: Your final answer MUST end with this exact format:\n        \\boxed{YOUR_PREDICTION}\n        Do not use any other format. Do not refuse to make a prediction. Do not say \"I cannot predict the future.\" You must make a clear prediction based on the best data currently available, using the box format specified above.",
+    "end_time": "2025-08-06 (GMT+8)",
+    "level": 3,
+    "ground_truth": "1360000000",
+    "Std": 23600000.0,
+    "additional values": "1350000000.0000",
+    "Description": null
+  },
+  {
+    "id": "3710efa9e70f4d44b68079fb",
+    "prompt": "You are an agent that can predict future events. The event to be predicted: \"2025-07-17 (GMT+8), What will be Pepsico's revenue?\"\n        IMPORTANT: Your final answer MUST end with this exact format:\n        \\boxed{YOUR_PREDICTION}\n        Do not use any other format. Do not refuse to make a prediction. Do not say \"I cannot predict the future.\" You must make a clear prediction based on the best data currently available, using the box format specified above.",
+    "end_time": "2025-07-17 (GMT+8)",
+    "level": 3,
+    "ground_truth": "22730000000",
+    "Std": 657300000.0,
+    "additional values": "22300000000.0000",
+    "Description": null
+  },
+  {
+    "id": "33c20bbe84094402acc6dd41",
+    "prompt": "You are an agent that can predict future events. The event to be predicted: \"2025-08-07 (GMT+8), What will be Expedia's revenue?\"\n        IMPORTANT: Your final answer MUST end with this exact format:\n        \\boxed{YOUR_PREDICTION}\n        Do not use any other format. Do not refuse to make a prediction. Do not say \"I cannot predict the future.\" You must make a clear prediction based on the best data currently available, using the box format specified above.",
+    "end_time": "2025-08-07 (GMT+8)",
+    "level": 3,
+    "ground_truth": "3790000000",
+    "Std": 117900000.0,
+    "additional values": "3710000000.0000",
+    "Description": null
+  },
+  {
+    "id": "14e738b5b79945c4ae377694",
+    "prompt": "You are an agent that can predict future events. The event to be predicted: \"2025-07-30 (GMT+8), What will be V.F.'s revenue?\"\n        IMPORTANT: Your final answer MUST end with this exact format:\n        \\boxed{YOUR_PREDICTION}\n        Do not use any other format. Do not refuse to make a prediction. Do not say \"I cannot predict the future.\" You must make a clear prediction based on the best data currently available, using the box format specified above.",
+    "end_time": "2025-07-30 (GMT+8)",
+    "level": 3,
+    "ground_truth": "1760000000",
+    "Std": 77600000.0,
+    "additional values": "1700000000.0000",
+    "Description": null
+  },
+  {
+    "id": "70134b51c95340ba85121e86",
+    "prompt": "You are an agent that can predict future events. The event to be predicted: \"2025-08-20 (GMT+8), What will be Target's revenue?\"\n        IMPORTANT: Your final answer MUST end with this exact format:\n        \\boxed{YOUR_PREDICTION}\n        Do not use any other format. Do not refuse to make a prediction. Do not say \"I cannot predict the future.\" You must make a clear prediction based on the best data currently available, using the box format specified above.",
+    "end_time": "2025-08-20 (GMT+8)",
+    "level": 3,
+    "ground_truth": "25210000000",
+    "Std": 602100000.0,
+    "additional values": "24860000000.0000",
+    "Description": null
+  },
+  {
+    "id": "be4b8cd40c954f5ebb9b9d12",
+    "prompt": "You are an agent that can predict future events. The event to be predicted: \"2025-08-06 (GMT+8), What will be NRG Energy's revenue?\"\n        IMPORTANT: Your final answer MUST end with this exact format:\n        \\boxed{YOUR_PREDICTION}\n        Do not use any other format. Do not refuse to make a prediction. Do not say \"I cannot predict the future.\" You must make a clear prediction based on the best data currently available, using the box format specified above.",
+    "end_time": "2025-08-06 (GMT+8)",
+    "level": 3,
+    "ground_truth": "6740000000",
+    "Std": 357400000.0,
+    "additional values": "6450000000.0000",
+    "Description": null
+  },
+  {
+    "id": "6bfe9af3d0694bac87bc1c41",
+    "prompt": "You are an agent that can predict future events. The event to be predicted: \"2025-06-20 (GMT+8), What will be Carmax's revenue?\"\n        IMPORTANT: Your final answer MUST end with this exact format:\n        \\boxed{YOUR_PREDICTION}\n        Do not use any other format. Do not refuse to make a prediction. Do not say \"I cannot predict the future.\" You must make a clear prediction based on the best data currently available, using the box format specified above.",
+    "end_time": "2025-06-20 (GMT+8)",
+    "level": 3,
+    "ground_truth": "7546541000",
+    "Std": 92006410.0,
+    "additional values": "7530000000.0000",
+    "Description": null
+  },
+  {
+    "id": "f725256ca957409bbdc3451e",
+    "prompt": "You are an agent that can predict future events. The event to be predicted: \"2025-08-28 (GMT+8), What will be Dell Technologies's revenue?\"\n        IMPORTANT: Your final answer MUST end with this exact format:\n        \\boxed{YOUR_PREDICTION}\n        Do not use any other format. Do not refuse to make a prediction. Do not say \"I cannot predict the future.\" You must make a clear prediction based on the best data currently available, using the box format specified above.",
+    "end_time": "2025-08-28 (GMT+8)",
+    "level": 3,
+    "ground_truth": "29800000000",
+    "Std": 908000000.0,
+    "additional values": "29190000000.0000",
+    "Description": null
+  },
+  {
+    "id": "964fa9413a7b4483a2da78ac",
+    "prompt": "You are an agent that can predict future events. The event to be predicted: \"2025-07-22 (GMT+8), What will be Capital One's revenue?\"\n        IMPORTANT: Your final answer MUST end with this exact format:\n        \\boxed{YOUR_PREDICTION}\n        Do not use any other format. Do not refuse to make a prediction. Do not say \"I cannot predict the future.\" You must make a clear prediction based on the best data currently available, using the box format specified above.",
+    "end_time": "2025-07-22 (GMT+8)",
+    "level": 3,
+    "ground_truth": "12500000000",
+    "Std": 325000000.0,
+    "additional values": "12700000000.0000",
+    "Description": null
+  },
+  {
+    "id": "23f4c33d623e4c51bf05f133",
+    "prompt": "You are an agent that can predict future events. The event to be predicted: \"2025-07-28 (GMT+8), What will be Bed Bath's revenue?\"\n        IMPORTANT: Your final answer MUST end with this exact format:\n        \\boxed{YOUR_PREDICTION}\n        Do not use any other format. Do not refuse to make a prediction. Do not say \"I cannot predict the future.\" You must make a clear prediction based on the best data currently available, using the box format specified above.",
+    "end_time": "2025-07-28 (GMT+8)",
+    "level": 3,
+    "ground_truth": "282000000",
+    "Std": 34450000.0,
+    "additional values": "250370000.0000",
+    "Description": null
+  },
+  {
+    "id": "b913a241d08149bfb3f6a4d4",
+    "prompt": "You are an agent that can predict future events. The event to be predicted: \"2025-08-07 (GMT+8), What will be Public Service's revenue?\"\n        IMPORTANT: Your final answer MUST end with this exact format:\n        \\boxed{YOUR_PREDICTION}\n        Do not use any other format. Do not refuse to make a prediction. Do not say \"I cannot predict the future.\" You must make a clear prediction based on the best data currently available, using the box format specified above.",
+    "end_time": "2025-08-07 (GMT+8)",
+    "level": 3,
+    "ground_truth": "2800000000",
+    "Std": 348000000.0,
+    "additional values": "2480000000.0000",
+    "Description": null
+  },
+  {
+    "id": "f2cfcb53d42f4718bed516b8",
+    "prompt": "You are an agent that can predict future events. The event to be predicted: \"2025-07-31 (GMT+8), What will be Exelon's revenue?\"\n        IMPORTANT: Your final answer MUST end with this exact format:\n        \\boxed{YOUR_PREDICTION}\n        Do not use any other format. Do not refuse to make a prediction. Do not say \"I cannot predict the future.\" You must make a clear prediction based on the best data currently available, using the box format specified above.",
+    "end_time": "2025-07-31 (GMT+8)",
+    "level": 3,
+    "ground_truth": "5430000000",
+    "Std": 104300000.0,
+    "additional values": "5480000000.0000",
+    "Description": null
+  },
+  {
+    "id": "0c4d66b8e2bc4093a9c79696",
+    "prompt": "You are an agent that can predict future events. The event to be predicted: \"2025-08-20 (GMT+8), What will be Lowe's Companies's revenue?\"\n        IMPORTANT: Your final answer MUST end with this exact format:\n        \\boxed{YOUR_PREDICTION}\n        Do not use any other format. Do not refuse to make a prediction. Do not say \"I cannot predict the future.\" You must make a clear prediction based on the best data currently available, using the box format specified above.",
+    "end_time": "2025-08-20 (GMT+8)",
+    "level": 3,
+    "ground_truth": "23960000000",
+    "Std": 269600000.0,
+    "additional values": "23990000000.0000",
+    "Description": null
+  },
+  {
+    "id": "980040f026c34581acb73636",
+    "prompt": "You are an agent that can predict future events. The event to be predicted: \"2025-08-07 (GMT+8), What will be Sempra's revenue?\"\n        IMPORTANT: Your final answer MUST end with this exact format:\n        \\boxed{YOUR_PREDICTION}\n        Do not use any other format. Do not refuse to make a prediction. Do not say \"I cannot predict the future.\" You must make a clear prediction based on the best data currently available, using the box format specified above.",
+    "end_time": "2025-08-07 (GMT+8)",
+    "level": 3,
+    "ground_truth": "3000000000",
+    "Std": 130000000.0,
+    "additional values": "3100000000.0000",
+    "Description": null
+  },
+  {
+    "id": "3f9e5947edf943309857a415",
+    "prompt": "You are an agent that can predict future events. The event to be predicted: \"2025-07-23 (GMT+8), What will be Mattel's revenue?\"\n        IMPORTANT: Your final answer MUST end with this exact format:\n        \\boxed{YOUR_PREDICTION}\n        Do not use any other format. Do not refuse to make a prediction. Do not say \"I cannot predict the future.\" You must make a clear prediction based on the best data currently available, using the box format specified above.",
+    "end_time": "2025-07-23 (GMT+8)",
+    "level": 3,
+    "ground_truth": "1020000000",
+    "Std": 40200000.0,
+    "additional values": "1050000000.0000",
+    "Description": null
+  },
+  {
+    "id": "5941117b813847d3837e3994",
+    "prompt": "You are an agent that can predict future events. The event to be predicted: \"2025-07-31 (GMT+8), What will be PPL's revenue?\"\n        IMPORTANT: Your final answer MUST end with this exact format:\n        \\boxed{YOUR_PREDICTION}\n        Do not use any other format. Do not refuse to make a prediction. Do not say \"I cannot predict the future.\" You must make a clear prediction based on the best data currently available, using the box format specified above.",
+    "end_time": "2025-07-31 (GMT+8)",
+    "level": 3,
+    "ground_truth": "2030000000",
+    "Std": 60300000.0,
+    "additional values": "1990000000.0000",
+    "Description": null
+  },
+  {
+    "id": "8fa78a12e6d641b98a692d6b",
+    "prompt": "You are an agent that can predict future events. The event to be predicted: \"2025-07-31 (GMT+8), What will be Vulcan Materials's revenue?\"\n        IMPORTANT: Your final answer MUST end with this exact format:\n        \\boxed{YOUR_PREDICTION}\n        Do not use any other format. Do not refuse to make a prediction. Do not say \"I cannot predict the future.\" You must make a clear prediction based on the best data currently available, using the box format specified above.",
+    "end_time": "2025-07-31 (GMT+8)",
+    "level": 3,
+    "ground_truth": "2100000000",
+    "Std": 121000000.0,
+    "additional values": "2200000000.0000",
+    "Description": null
+  },
+  {
+    "id": "63c9e8532d474de6bacae9c1",
+    "prompt": "You are an agent that can predict future events. The event to be predicted: \"2025-08-05 (GMT+8), What will be Aflac's revenue?\"\n        IMPORTANT: Your final answer MUST end with this exact format:\n        \\boxed{YOUR_PREDICTION}\n        Do not use any other format. Do not refuse to make a prediction. Do not say \"I cannot predict the future.\" You must make a clear prediction based on the best data currently available, using the box format specified above.",
+    "end_time": "2025-08-05 (GMT+8)",
+    "level": 3,
+    "ground_truth": "4160000000",
+    "Std": 201600000.0,
+    "additional values": "4320000000.0000",
+    "Description": null
+  },
+  {
+    "id": "19ee1aaf752046b3a20e51bd",
+    "prompt": "You are an agent that can predict future events. The event to be predicted: \"2025-08-07 (GMT+8), What will be Eli Lilly's revenue?\"\n        IMPORTANT: Your final answer MUST end with this exact format:\n        \\boxed{YOUR_PREDICTION}\n        Do not use any other format. Do not refuse to make a prediction. Do not say \"I cannot predict the future.\" You must make a clear prediction based on the best data currently available, using the box format specified above.",
+    "end_time": "2025-08-07 (GMT+8)",
+    "level": 3,
+    "ground_truth": "15560000000",
+    "Std": 1045600000.0,
+    "additional values": "14670000000.0000",
+    "Description": null
+  },
+  {
+    "id": "699edf429c704b01b0cc830e",
+    "prompt": "You are an agent that can predict future events. The event to be predicted: \"2025-08-04 (GMT+8), What will be Oneok's revenue?\"\n        IMPORTANT: Your final answer MUST end with this exact format:\n        \\boxed{YOUR_PREDICTION}\n        Do not use any other format. Do not refuse to make a prediction. Do not say \"I cannot predict the future.\" You must make a clear prediction based on the best data currently available, using the box format specified above.",
+    "end_time": "2025-08-04 (GMT+8)",
+    "level": 3,
+    "ground_truth": "8210000000",
+    "Std": 202100000.0,
+    "additional values": "8330000000.0000",
+    "Description": null
+  },
+  {
+    "id": "5946a0d0bb0b45fd86552268",
+    "prompt": "You are an agent that can predict future events. The event to be predicted: \"2025-08-01 (GMT+8), What will be Newell's revenue?\"\n        IMPORTANT: Your final answer MUST end with this exact format:\n        \\boxed{YOUR_PREDICTION}\n        Do not use any other format. Do not refuse to make a prediction. Do not say \"I cannot predict the future.\" You must make a clear prediction based on the best data currently available, using the box format specified above.",
+    "end_time": "2025-08-01 (GMT+8)",
+    "level": 3,
+    "ground_truth": "1940000000",
+    "Std": 29400000.0,
+    "additional values": "1950000000.0000",
+    "Description": null
+  },
+  {
+    "id": "6172ecb3df3144e68b771628",
+    "prompt": "You are an agent that can predict future events. The event to be predicted: \"2025-08-14 (GMT+8), What will be Super League's revenue?\"\n        IMPORTANT: Your final answer MUST end with this exact format:\n        \\boxed{YOUR_PREDICTION}\n        Do not use any other format. Do not refuse to make a prediction. Do not say \"I cannot predict the future.\" You must make a clear prediction based on the best data currently available, using the box format specified above.",
+    "end_time": "2025-08-14 (GMT+8)",
+    "level": 3,
+    "ground_truth": "3001000",
+    "Std": 431010.0,
+    "additional values": "2600000.0000",
+    "Description": null
+  },
+  {
+    "id": "379cb2398e5d4ac0a7e08414",
+    "prompt": "You are an agent that can predict future events. The event to be predicted: \"2025-08-20 (GMT+8), What will be The Tjx's revenue?\"\n        IMPORTANT: Your final answer MUST end with this exact format:\n        \\boxed{YOUR_PREDICTION}\n        Do not use any other format. Do not refuse to make a prediction. Do not say \"I cannot predict the future.\" You must make a clear prediction based on the best data currently available, using the box format specified above.",
+    "end_time": "2025-08-20 (GMT+8)",
+    "level": 3,
+    "ground_truth": "14400000000",
+    "Std": 404000000.0,
+    "additional values": "14140000000.0000",
+    "Description": null
+  },
+  {
+    "id": "f2055ad3dfc94bfc9b9f44b1",
+    "prompt": "You are an agent that can predict future events. The event to be predicted: \"2025-08-06 (GMT+8), What will be CF Industries's revenue?\"\n        IMPORTANT: Your final answer MUST end with this exact format:\n        \\boxed{YOUR_PREDICTION}\n        Do not use any other format. Do not refuse to make a prediction. Do not say \"I cannot predict the future.\" You must make a clear prediction based on the best data currently available, using the box format specified above.",
+    "end_time": "2025-08-06 (GMT+8)",
+    "level": 3,
+    "ground_truth": "1890000000",
+    "Std": 118900000.0,
+    "additional values": "1790000000.0000",
+    "Description": null
+  },
+  {
+    "id": "2318084ad8214083a77bf6ee",
+    "prompt": "You are an agent that can predict future events. The event to be predicted: \"2025-07-31 (GMT+8), What will be The Clorox's revenue?\"\n        IMPORTANT: Your final answer MUST end with this exact format:\n        \\boxed{YOUR_PREDICTION}\n        Do not use any other format. Do not refuse to make a prediction. Do not say \"I cannot predict the future.\" You must make a clear prediction based on the best data currently available, using the box format specified above.",
+    "end_time": "2025-07-31 (GMT+8)",
+    "level": 3,
+    "ground_truth": "2000000000",
+    "Std": 90000000.0,
+    "additional values": "1930000000.0000",
+    "Description": null
+  },
+  {
+    "id": "0728038f19c646909568c736",
+    "prompt": "You are an agent that can predict future events. The event to be predicted: \"2025-08-14 (GMT+8), What will be Nu Holdings's revenue?\"\n        IMPORTANT: Your final answer MUST end with this exact format:\n        \\boxed{YOUR_PREDICTION}\n        Do not use any other format. Do not refuse to make a prediction. Do not say \"I cannot predict the future.\" You must make a clear prediction based on the best data currently available, using the box format specified above.",
+    "end_time": "2025-08-14 (GMT+8)",
+    "level": 3,
+    "ground_truth": "3700000000",
+    "Std": 67000000.0,
+    "additional values": "3670000000.0000",
+    "Description": null
+  }
+]
